@@ -1,0 +1,11 @@
+site_name: DSGVO-Linkliste
+site_url: https://github.com/jrselzer/DSGVO-Linkliste
+nav:
+    - Home: index.md
+    - About: about.md
+    - Allgemein: Allgemein.md
+    - Zur Rechtslage: Zur_Rechtslage.md
+    - Was zum?: Was_zum.md
+    - Praktische Hinweise: Praktische_Hinweise.md
+    - Weiterführende Hinweise: Weiterfuehrende_Hinweise.md
+theme: readthedocs
