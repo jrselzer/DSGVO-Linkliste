@@ -22,7 +22,6 @@ Praktische Hinweise
 * Good Practice bei [technischen und organisatorischen Maßnahmen](https://www.lda.bayern.de/media/checkliste/baylda_checkliste_tom.pdf) Generischer Ansatz nach Art. 32 DS-GVO zur Sicherheit
 * Umsetzung der DSGVO durch [Schulen](https://www.landesschulbehoerde-niedersachsen.de/themen/schulorganisation/datenschutz/dsgvo) und Studienseminare
 * c’t-Booklet ein Jahr DSGVO: [Rechte und Pflichten in der Praxis](https://cdnpcf.heise.de/dsgvo19.pdf)
-* DSGVO in der Praxis: [Löschung](https://www.heise.de/ratgeber/DSGVO-in-der-Praxis-Loeschung-personenbezogener-Daten-4932034.html) personenbezogener Daten
 * [ENISA and TeleTrusT](https://www.enisa.europa.eu/news/enisa-news/what-is-state-of-the-art-in-it-security) – IT Security Association Germany have published their guidelines in English
     * [English](https://www.teletrust.de/en/publikationen/broschueren/state-of-the-art-in-it-security/) version
     * [German](https://www.teletrust.de/publikationen/broschueren/stand-der-technik/) version
@@ -39,6 +38,12 @@ Praktische Hinweise
     * [Privacyscore](https://privacyscore.org) – testet Webseiten auf Cookies, Tracking und Verschlüsselung
     * [Webbkoll](https://webbkoll.dataskydd.net/) – testet Webseiten auf Cookies, Tracking und Verschlüsselung
     * Liste von [Bewertungstools](https://www.kuketz-blog.de/empfehlungsecke/#online-bewertungstools)
+
+### Recht auf Löschung
+* [Der Bayerische Landesbeauftragte für den Datenschutz veröffentlicht Orientierungshilfe zum Recht auf Löschung](https://www.datenschutz-bayern.de/presse/20220620_Recht_auf_Loeschung.html)
+    * [Das Recht auf Löschung nach der Datenschutz-Grundverordnung](https://www.datenschutz-bayern.de/datenschutzreform2018/OH_Loeschung.pdf) - Orientierungshilfe
+* DSGVO in der Praxis: [Löschung](https://www.heise.de/ratgeber/DSGVO-in-der-Praxis-Loeschung-personenbezogener-Daten-4932034.html) personenbezogener Daten
+
 ### Webseiten allgemein
 * [Wie Google Fonts DSGVO-konform werden](https://www.datenschutzbeauftragter-info.de/wie-google-fonts-dsgvo-konform-werden/)
 * Unterlassungsanspruch und Schadensersatz (hier 100 €) wg. Weitergabe von IP-Adresse an Google durch Nutzung von [Google Fonts](https://rewis.io/urteile/urteil/lhm-20-01-2022-3-o-1749320/)
