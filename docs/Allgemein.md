@@ -56,7 +56,10 @@ Allgemein
 * Your [emails](https://blog.ohmysmtp.com/blog/your-emails-are-not-gdpr-compliant/) are probably not GDPR compliant
 * Datenschutz über den [Tod](https://www.datenschutz-notizen.de/datenschutz-ueber-den-tod-hinaus-5129535/) hinaus?
 * [Auskunftsverweigerungsrecht](https://www.dr-datenschutz.de/auskunftsverweigerungsrecht-bei-fragen-der-aufsichtsbehoerde/) bei Fragen der Aufsichtsbehörde
-Zwischenbilanzen
+* Pixi-Buchreihe des [Bundesdatenschutzbeauftragten](https://www.bfdi.bund.de/DE/Home/home_node.html)
+    *  [Bestellen](https://www.bfdi.bund.de/DE/Service/Publikationen/Pixi/Pixi_node.html)
+    *  [Videos](https://www.bfdi.bund.de/DE/Service/Mediathek/Pixi/Pixi-node.html)
+### Zwischenbilanzen
 * 100 Tage DSGVO: [Datenschutz-Experte: „Der Schutz der Daten fällt leider hinten runter“](https://www.augsburger-allgemeine.de/bayern/Datenschutz-Experte-Der-Schutz-der-Daten-faellt-leider-hinten-runter-id52044086.html)
 * [c’t-Sonderheft 150 Tage DSGVO](https://www.heise.de/select/ct-wissen/2019/1/softlinks/wuge?wt_mc=pred.red.ct.sh_wissen012019.106.softlink.softlink)
     * [ISO-Image der Heft-DVD zum Download](https://cdnpcf.heise.de/hb1901.iso)
