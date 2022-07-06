@@ -369,5 +369,6 @@ Zur Rechtslage
     * t3n: Damit das FBI mithören kann: [Keine Ende-zu-Ende-Verschlüsselung](https://t3n.de/news/damit-fbi-mithoeren-kann-keine-1287674/) für Gratisnutzer von Zoom
 * LfDI-BW: Warnung des LfDI wurde gehört – [Zoom bessert nach](https://www.baden-wuerttemberg.datenschutz.de/warnung-des-lfdi-wurde-gehoert-zoom-bessert-nach/)
 * Hamburgs Datenschutzbeauftragter hat die [Senatskanzlei](https://www.golem.de/news/videokonferenzdienst-hamburg-vor-rechtswidrigem-zoom-einsatz-gewarnt-2108-158915.html) offiziell vor dem Einsatz von Zoom gewarnt. Dieser sei rechtswidrig.
+* Golem: [Datenschutzbeauftragter erlaubt Zoom-Einsatz unter Auflagen](https://www.golem.de/news/videokonferenz-datenschutzbeauftragter-erlaubt-zoom-einsatz-unter-auflagen-2206-166255.html) An hessischen Hochschulen darf Zoom weiter genutzt werden, sofern die Maßnahmen des Hessischen Modells umgesetzt werden.
 #### Skype an Schulen
 * [Ja, nein, ein bisschen?](https://eduagora.de/2020/03/26/skype-ja-nein-ein-bisschen/)
