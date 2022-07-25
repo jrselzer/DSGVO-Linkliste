@@ -38,6 +38,7 @@ Was zum?
 * Gemeinsame Stellungnahme des Beauftragten für den Datenschutz der EKD und des Beauftragten für den Datenschutz der Nordkirche zur [Verarbeitung personenbezogener Daten](https://datenschutz.ekd.de/wp-content/uploads/2020/03/Stellungnahme_pbD_Corona.pdf) im Zusammenhang mit der Corona-Pandemie
 * [Her mit meinen Daten!](https://artikel91.eu/2021/03/30/her-mit-meinen-daten-informationelle-selbstverteidigung/) Informationelle Selbstverteidigung
 * DSG-EKD – Das [Datenschutzgesetz](https://www.dr-datenschutz.de/dsg-ekd-das-datenschutzgesetz-der-evangelischen-kirche/) der Evangelischen Kirche
+* [Checkliste Auftragsverarbeitung nach KDG und DSG-EKD](https://artikel91.eu/2022/07/25/checkliste-auftragsverarbeitung-nach-kdg-und-dsg-ekd/)
 #### Kirche und Whatsapp
 * [Datenschutz in der EKD: „WhatsApp geht überhaupt nicht“](https://www.evangelisch.de/inhalte/150140/23-05-2018/der-ekd-datenschutzbeauftragte-michael-jacob-ueber-die-dsgvo-und-die-eu-verordnung)
 * [Ergänzende Stellungnahme](https://datenschutz.ekd.de/wp-content/uploads/2018/10/Erg%C3%A4nzende-Stellungnahm-Messgr-Dienste.pdf) des EKD-Datenschutzbeauftragten
