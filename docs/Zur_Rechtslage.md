@@ -207,6 +207,7 @@ Zur Rechtslage
 * LfDI BW: [Fotografieren und Datenschutz](https://www.baden-wuerttemberg.datenschutz.de/wp-content/uploads/2019/09/Fotografieren-und-Datenschutz-September-2019.pdf) September 2019
 * [Veröffentlicht eine Partei auf ihrer Fanpage bei Facebook zur politischen Werbung ein Foto](http://www.rechtsprechung.niedersachsen.de/jportal/portal/page/bsndprod.psml?doc.id=MWRE190004238&st=ent&doctyp=juris-r&showdoccase=1&paramfromHL=true#focuspoint), auf dem Personen erkennbar abgebildet sind, und willigen diese nicht ein, so liegt darin eine unzulässige Verarbeitung personenbezogener Daten; ob dies – nur – aus Art. 6 Abs. 1 DS-GVO oder – auch – aus § 23 KUG folgt, kann offen bleiben.
 * LfDI B: Datenschutz bei [Bild-, Ton-und Videoaufnahmen](https://www.datenschutz-berlin.de/fileadmin/user_upload/pdf/publikationen/informationsmaterialien/2020-BlnBDI-Datenschutz_Bild_Ton_Video.pdf)
+* [Wann ist ein Bildzitat erlaubt? – Anleitung mit Beispielen und Checkliste](https://drschwenke.de/wann-ist-ein-bildzitat-erlaubt-anleitung-mit-beispielen-und-checkliste/)
 ### Whatsapp im staatlichen Datenschutz
 * [WhatsApp ist nun offiziell illegal! Welche Strafen drohen dir?](https://www.youtube.com/watch?v=hcSjM3g4n-0) | Rechtsanwalt Christian Solmecke
 * Whatsapp und die DSGVO: [Darf der Messenger auf dem Firmenhandy bleiben?](https://www.e-recht24.de/artikel/datenschutz/11023-whatsapp-auf-firmenhandy-nach-dsgvo-erlaubt-oder-nicht.html)
