@@ -52,6 +52,7 @@ Zur Rechtslage
 * Eine [Betroffenenanfrage](https://www.adorgasolutions.de/betroffenenrechte-recht-auf-auskunft/) erhalten. Und nun?
 * Gericht sieht Pflicht zur [Negativauskunft](https://www.dr-datenschutz.de/gericht-sieht-pflicht-zur-negativauskunft/)
 * Bundesweite [Betrugsmasche](http://www.spiegel.de/netzwelt/web/dsgvo-betrug-fax-der-datenschutzauskunft-zentrale-einfach-ignorieren-a-1231282.html): Lassen Sie sich nicht von der „Datenschutzauskunft-Zentrale“ abzocken
+* [Missbrauchtes Auskunftsrecht: Grenzen des Auskunftsrechts nach der DSGVO](https://www.heise.de/hintergrund/Missbrauchtes-Auskunftsrecht-Grenzen-des-Auskunftsrechts-nach-der-DSGVO-7203394.html?seite=all) Es steht jedem das Recht auf Auskunft zu den über seine Person gespeicherten Daten zu. Dieses Recht kann entfallen, wenn es missbräuchlich genutzt wird.
 ### Meldepflicht
 * DSGVO: [So funktionieren die neuen Meldepflichten bei Datenpannen](https://www.heise.de/hintergrund/DSGVO-So-funktionieren-die-neuen-Meldepflichten-bei-Datenpannen-4426089.html)
 * [Die DSGVO hat die Meldepflicht für Datenpannen wesentlich verschärft.](https://www.althammer-kill.de/files/ak/content/publications/AK-Kundenmagazin_2019-02.pdf) Was geht das den „normalen Mitarbeiter“an? Deutlich mehr, als viele glauben!
