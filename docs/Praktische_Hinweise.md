@@ -45,9 +45,6 @@ Praktische Hinweise
 * DSGVO in der Praxis: [Löschung](https://www.heise.de/ratgeber/DSGVO-in-der-Praxis-Loeschung-personenbezogener-Daten-4932034.html) personenbezogener Daten
 
 ### Webseiten allgemein
-* [Wie Google Fonts DSGVO-konform werden](https://www.datenschutzbeauftragter-info.de/wie-google-fonts-dsgvo-konform-werden/)
-* Unterlassungsanspruch und Schadensersatz (hier 100 €) wg. Weitergabe von IP-Adresse an Google durch Nutzung von [Google Fonts](https://rewis.io/urteile/urteil/lhm-20-01-2022-3-o-1749320/)
-* [Angeblicher DSGVO-Verstoß: Abmahnwelle wegen Google Fonts](https://www.heise.de/news/DSGVO-Abmahnwelle-wegen-Google-Fonts-7206364.html)
 * [Wie Webseiten Nutzer tracken dürfen – und wie nicht](https://www.golem.de/news/orientierungshilfe-wie-webseiten-nutzer-tracken-duerfen-und-wie-nicht-1904-140588.html)
 * [So können Websitebetreiber Nutzer DSGVO-konform tracken](https://www.golem.de/news/datenschutz-faq-nutzer-dsgvo-konform-tracken-1904-140951.html)
 * Datenschutzfreundliche [Google-Alternativen](https://www.kuketz-blog.de/empfehlungsecke/#google-alternativen) für Webseitenbetreiber
@@ -59,6 +56,11 @@ Praktische Hinweise
 * [Datenschutz-Generator](https://datenschutz-generator.de/)
 * [DSGVO.clever](https://www.baden-wuerttemberg.datenschutz.de/ds-gvo.clever/)
 * [Ausgesuchte Datenschutzprobleme auf Webseiten und mögliche Lösungen](https://dr-dsgvo.de/ausgesuchte-datenschutzprobleme-auf-webseiten-und-moegliche-loesungen/)
+#### Google Fonts
+* [Wie Google Fonts DSGVO-konform werden](https://www.datenschutzbeauftragter-info.de/wie-google-fonts-dsgvo-konform-werden/)
+* Unterlassungsanspruch und Schadensersatz (hier 100 €) wg. Weitergabe von IP-Adresse an Google durch Nutzung von [Google Fonts](https://rewis.io/urteile/urteil/lhm-20-01-2022-3-o-1749320/)
+* [Angeblicher DSGVO-Verstoß: Abmahnwelle wegen Google Fonts](https://www.heise.de/news/DSGVO-Abmahnwelle-wegen-Google-Fonts-7206364.html)
+* [LG München: Einbindung von Google Fonts ohne Einwilligung(https://www.ra-plutte.de/lg-muenchen-dynamische-einbindung-google-web-fonts-ist-dsgvo)
 ### Cookies
 * DSGVO: [Rechtsgrundlagen und Funktionsweisen von Cookie-Hinweisen](https://www.heise.de/newsticker/meldung/DSGVO-Rechtsgrundlagen-und-Funktionsweisen-von-Cookie-Hinweisen-4430026.html)
 * [Das müssen Sie bei Tracking-Cookies beachten](https://www.heise.de/hintergrund/Das-muessen-Sie-bei-Tracking-Cookies-beachten-4415648.html)
