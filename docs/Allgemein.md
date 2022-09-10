@@ -136,6 +136,7 @@ Allgemein
 * Microsofts Rechenzentrum in [Österreich](https://futurezone.at/netzpolitik/microsofts-rechenzentrum-in-oesterreich-faellt-unter-us-ueberwachung/401088474) fällt unter US-Überwachung
 * [Task Force](https://www.golem.de/news/datenschutz-task-force-will-nutzung-von-us-clouddiensten-pruefen-2102-154206.html) will Nutzung von US-Clouddiensten prüfen
 * Berliner Datenschützer fordern Abschaltung von Facebook-[Fanseiten](https://www.heise.de/news/Berliner-Datenschuetzer-fordern-Abschaltung-von-Facebook-Fanseiten-6667046.html)
+* [Drittland: Ist ein bloßes Zugriffsrisiko schon eine Übermittlung?](https://www.dr-datenschutz.de/drittland-ist-ein-blosses-zugriffsrisiko-schon-eine-uebermittlung/)
 ### Corona
 * Wirtschaft fordert [Lockerungen](https://www.heise.de/newsticker/meldung/Wirtschaft-fordert-Lockerungen-bei-Datenschutzverordnung-wegen-Coronakrise-4713366.html) bei Datenschutzverordnung wegen Coronakrise
 * [Coronaschutzverordnung NRW](https://www.land.nrw/sites/default/files/asset/document/2020-07-12_fassung_coronaschvo_ab_15.07.2020_lesefassung.pdf) Stand 15.7.2020

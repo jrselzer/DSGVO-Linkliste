@@ -1,19 +1,12 @@
-# Inlaesos terrae inpressa
+# Über diese Linkliste
 
-## Modo postquam
+## Am Anfang war das Mimimi
 
-Lorem markdownum nomen aequora abluere nullos et **debueram habet**, ire verba
-adeo trabs citharae. De erit Coroneus **premente**, freta vix
-[harundine](http://vetitaeames.net/), nec. Artus Pheretiade sequenti terraeque
-quid veniet natam me domus vindicat, est similes [solvo
-cineres](http://patrio.io/). Illo enim flebile canistris locus perluitur.
+Im Frühjahr 2018 war die Aufregung groß. Zwei Jahre lang hatten Politik und Öffentlichkeit die Taktik verfolgt, mit der sie vorher die Klimakatastrophe abgewendet und später die Corona-Pandemie besiegt hatten: Ignorieren. Dann geht das alles schon von alleine weg. Kurz vor Ablaufen der Frist beschlich die etwas Schlaueren der Verdacht, Realitätsverleugnung könne eine nur eingeschränkt zielführende Strategie sein, worauf die öffentliche Wahrnehmung übergangslos von Tiefschlaf in hysterischen Aktionismus schaltete.
 
-Unde ossa vocabat. Nigris percussit florem. Quid utque gravitate indignatus.
+## Was kümmern mich Fakten?
 
-## Factura erudit
-
-Attenuarat *Dixit* mentiturque studio nec igne, vera ante bracchia *movere
-gratulor munera*, aut spatiis, threicius. Contenta est, *ait esses rari* pro.
+Wenn der Teutone eins ist, dann Experte. Egal zu welchem Thema. Die Hirne des Volks der Dichter und Denker wurden im Verlauf der Evolution so hochgezüchtet, dass sie nicht das Geringste zu einem Thema wissen müssen, um dennoch jeden Aspekt vollständig verstanden und vor allem eine Meinung dazu zu haben. So schalteten mit dramatischer Geste hunderte Webseiten ihre Inhalte ab, weil das angeblich so in der DSGVO steht. In den sozialen Medien überboten sich die üblichen Schreihälse mit Prophezeihungen, welch furchtbare Untergangsszenarien diesem Land, nein Europa, ach was sag ich, dem Universum in Gänze bevorstehen. Die Meisten hatten sich vorher noch nie auch nur im Ansatz mit juristischen Themen beschäftig und spekulierten munter drauf los, was unter den ganzen Fachbegriffen in der DSGVO denn verstanden werden könnte. Die mit etwas mehr Sachkunde wurden auch nicht müde darin, möglichst drastische Katastrophenszenarien zu beschreiben, die aber vermeiden könne, wer ihr zufällig gerade erschienenes Buch kaufe oder ihr Seminar zurm Spottpreis von 2.500 € für zwei Tage buche. All diesen apokalyptischen Visionen war eins gemein: Hysterie schüren, um Aufmerksamkeit zu bekommen. Die Öffentlichkeit stimmte dankbar mit ein. Niemand interessierte sich für reale Gefahren. Die Leute wollten sich aufregen. Weil Datenschutz böse ist.
 
 ## Nec matrisque iudice redit
 

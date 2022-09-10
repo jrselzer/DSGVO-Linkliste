@@ -82,6 +82,7 @@ Praktische Hinweise
 * Onlinewerbung: Google testet Cookie-[Nachfolger](https://www.heise.de/news/Onlinewerbung-Google-testet-Cookie-Nachfolger-5036020.html)
 * Versteigerte Werbeplätze: So funktioniert [Programmatic Advertising](https://www.heise.de/ct/artikel/Versteigerte-Werbeplaetze-So-funktioniert-Programmatic-Advertising-4203227.html)
 * Der ultimative [Cookie-Datenschutz-Ratgeber](https://datenschutz-generator.de/cookies-datenschutz-ratgeber/)
+* [Cookies und Datenschutz: Zwischen TTDSG und DSGVO](https://www.dr-datenschutz.de/cookies-und-datenschutz-zwischen-ttdsg-und-dsgvo/)
 ### WordPress
 * [DSGVO für WordPress Praktiker](https://www.storemotion.de/2018/05/11/dsgvo-fuer-wordpress-praktiker/)
 * DSGVO-Checkliste: [WordPress datenschutzkonform einsetzen](https://www.heise.de/ix/meldung/DSGVO-Checkliste-WordPress-datenschutzkonform-einsetzen-4138135.html)
