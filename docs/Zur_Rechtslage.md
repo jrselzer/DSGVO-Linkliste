@@ -19,20 +19,22 @@ Zur Rechtslage
 * Google muss Informationen [nicht zwingend und nicht weltweit](https://www.heise.de/newsticker/meldung/Google-muss-Informationen-nicht-zwingend-und-nicht-weltweit-loeschen-4537772.html) löschen
 * So geht die [Verarbeitung öffentlich zugänglicher personenbezogener Daten](https://www.rmprivacy.de/so-geht-die-verarbeitung-oeffentlich-zugaenglicher-personenbezogener-daten/)
 * Staatsanwaltschaft: [Opt-out-Aufzeichnung am Telefon keine Straftat](https://presse-augsburg.de/staatsanwaltschaft-opt-out-aufzeichnung-am-telefon-keine-straftat/515302/)
-* LG Mosbach: [DSGVO-Auskunft: Auskunftspflicht über Herkunft der Daten](https://www.dr-bahr.com/news/dsgvo-auskunft-auskunftspflicht-ueber-herkunft-der-daten.html?utm_source=dlvr.it&utm_medium=twitter)
-* Recht auf Vergessenwerden
-    * [Recht auf Vergessen](https://www.cr-online.de/blog/2019/11/28/recht-auf-vergessen-bverfg-staerkt-das-medienprivileg-art-5-gg-wird-zum-eigenstaendigen-erlaubnistatbestand/): BVerfG stärkt das Medienprivileg, Art. 5 GG wird zum eigenständigen Erlaubnistatbestand
-    * [Recht auf Vergessenwerden](https://www.heise.de/news/Recht-auf-Vergessenwerden-BGH-weist-eine-Klage-ab-eine-geht-an-den-EuGH-4855509.html): BGH weist eine Klage ab, eine geht an den EuGH
-    * Streit über Google-Suchergebnisse: „[Recht auf Vergessenwerden](https://www.spiegel.de/netzwelt/netzpolitik/bundesgerichtshof-recht-auf-vergessenwerden-vom-einzelfall-abhaengig-a-5b5b6358-97af-49f5-b6cf-96def1af6972)“ ist immer vom Einzelfall abhängig
-    * BGH ändert Rechtsprechung zu „[Recht auf Vergessenwerden](https://rsw.beck.de/aktuell/daily/meldung/detail/bgh-aendert-rechtsprechung-zu-recht-auf-vergessenwerden)„
-    * Persönlichkeitsrecht: Pressearchive dürfen auch [Unangenehmes](https://www.heise.de/hintergrund/Persoenlichkeitsrecht-Pressearchive-duerfen-auch-Unangenehmes-lange-vorhalten-4883698.html) lange vorhalten
-* EuGH-Urteil: Im Voraus angekreuzte [Kästchen](https://netzpolitik.org/2020/eugh-urteil-im-voraus-angekreuzte-kaestchen-sind-nicht-legal/) sind nicht legal
-* Keine [Unterschrift](https://www.datenanfragen.de/blog/abis-unterschrift-dsgvo-anfragen/) für DSGVO-Anfragen nötig: Erfolgreiche Beschwerde gegen die ABIS GmbH
+* [Darf man Drohnen per Luftgewehr abwehren?](https://www.spiegel.de/netzwelt/gerichtsurteile-zu-drohnen-darf-man-drohnen-per-luftgewehr-abwehren-a-27507b49-084c-4299-b1e8-b86a475451f6) Manche Hobbypiloten fliegen gedankenlos über fremde Grundstücke oder spionieren Nachbarn aus. Unter welchen Umständen dürfen sich Betroffene wehren – und wie?
 * Sind [Faxe](https://www.datenschutz-praxis.de/verarbeitungstaetigkeiten/sind-faxe-noch-datenschutzkonform/) noch datenschutzkonform?
     * LfDI Hessen: Zur Übermittlung personenbezogener Daten per [Fax](https://datenschutz.hessen.de/datenschutz/it-und-datenschutz/zur-%C3%BCbermittlung-personenbezogener-daten-per-fax)
     * LfDI Bremen: [Telefax](https://www.datenschutz.bremen.de/datenschutztipps/orientierungshilfen-und-handlungshilfen/telefax-ist-nicht-datenschutz-konform-16111) ist nicht Datenschutz konform
+
+### Recht auf Vergessenwerden
+* [Recht auf Vergessen](https://www.cr-online.de/blog/2019/11/28/recht-auf-vergessen-bverfg-staerkt-das-medienprivileg-art-5-gg-wird-zum-eigenstaendigen-erlaubnistatbestand/): BVerfG stärkt das Medienprivileg, Art. 5 GG wird zum eigenständigen Erlaubnistatbestand
+* [Recht auf Vergessenwerden](https://www.heise.de/news/Recht-auf-Vergessenwerden-BGH-weist-eine-Klage-ab-eine-geht-an-den-EuGH-4855509.html): BGH weist eine Klage ab, eine geht an den EuGH
+* Streit über Google-Suchergebnisse: „[Recht auf Vergessenwerden](https://www.spiegel.de/netzwelt/netzpolitik/bundesgerichtshof-recht-auf-vergessenwerden-vom-einzelfall-abhaengig-a-5b5b6358-97af-49f5-b6cf-96def1af6972)“ ist immer vom Einzelfall abhängig
+* BGH ändert Rechtsprechung zu „[Recht auf Vergessenwerden](https://rsw.beck.de/aktuell/daily/meldung/detail/bgh-aendert-rechtsprechung-zu-recht-auf-vergessenwerden)„
+* Persönlichkeitsrecht: Pressearchive dürfen auch [Unangenehmes](https://www.heise.de/hintergrund/Persoenlichkeitsrecht-Pressearchive-duerfen-auch-Unangenehmes-lange-vorhalten-4883698.html) lange vorhalten
+
+### Google Fonts
 * [Google-Fonts-Urteil](https://dr-dsgvo.de/google-fonts-urteil-rechtskraeftig-auswirkungen/) rechtskräftig: Auswirkungen auf Google Maps und reCAPTCHA
 * [Abmahnungen an Webseitenbetreiber mit Google-Schriftarten](https://www.golem.de/news/google-fonts-abmahnungen-an-webseitenbetreiber-mit-google-schriftarten-2208-167472.html) Nach einer Entscheidung des Landgerichts München erhalten Webseitenbetreiber mit eingebundenen Google Fonts vermehrt Abmahnungen.
+
 ### Mythen
 * [Mythen und gefährliches Halbwissen zum neuen europäischen Datenschutzrecht](http://www.rechtzweinull.de/archives/2558-mein-erster-dgsvo-rant-zu-viele-mythen-und-gefaehrliches-halbwissen-zum-neuen-europaeischen-datenschutzrecht.html)
 * 7 DSGVO-[Mythen](https://www.lto.de/recht/feuilleton/f/europaeischer-datenschutztag-dsgvo-kuriose-faelle-rechtliche-bewertung/) im Rechtscheck
@@ -40,6 +42,7 @@ Zur Rechtslage
 * Die größten DSGVO-[Mythen](https://www.isico-datenschutz.de/blog/2018/07/10/die-groessten-dsgvo-mythen-die-einwilligung-was-stimmt-und-was-nicht/): die Einwilligung – Was stimmt und was nicht?
 * Schluss mit den DSGVO-[Mythen](https://www.isico-datenschutz.de/blog/2018/10/30/schluss-mit-dsgvo-mythen/)
 * [European GDPR myths](https://infosec-handbook.eu/blog/gdpr-myths/)
+
 ### Auskunftsrecht
 * [Art. 15 DSGVO: Recht auf Auskunft und Kopie – Hintergrundinformationen und Materialsammlung](https://www.linkedin.com/pulse/art-15-dsgvo-recht-auf-auskunft-und-kopie-tim-wybitul/)
 * [Auskunft](https://www.datenschutz-praxis.de/fachartikel/dsgvo-auskunft-ueber-gespraechsnotizen-telefonvermerke/) auch über Gesprächsnotizen und Telefonvermerke?
@@ -53,12 +56,16 @@ Zur Rechtslage
 * Gericht sieht Pflicht zur [Negativauskunft](https://www.dr-datenschutz.de/gericht-sieht-pflicht-zur-negativauskunft/)
 * Bundesweite [Betrugsmasche](http://www.spiegel.de/netzwelt/web/dsgvo-betrug-fax-der-datenschutzauskunft-zentrale-einfach-ignorieren-a-1231282.html): Lassen Sie sich nicht von der „Datenschutzauskunft-Zentrale“ abzocken
 * [Missbrauchtes Auskunftsrecht: Grenzen des Auskunftsrechts nach der DSGVO](https://www.heise.de/hintergrund/Missbrauchtes-Auskunftsrecht-Grenzen-des-Auskunftsrechts-nach-der-DSGVO-7203394.html?seite=all) Es steht jedem das Recht auf Auskunft zu den über seine Person gespeicherten Daten zu. Dieses Recht kann entfallen, wenn es missbräuchlich genutzt wird.
+* LG Mosbach: [DSGVO-Auskunft: Auskunftspflicht über Herkunft der Daten](https://www.dr-bahr.com/news/dsgvo-auskunft-auskunftspflicht-ueber-herkunft-der-daten.html?utm_source=dlvr.it&utm_medium=twitter)
+* Keine [Unterschrift](https://www.datenanfragen.de/blog/abis-unterschrift-dsgvo-anfragen/) für DSGVO-Anfragen nötig: Erfolgreiche Beschwerde gegen die ABIS GmbH
+
 ### Meldepflicht
 * DSGVO: [So funktionieren die neuen Meldepflichten bei Datenpannen](https://www.heise.de/hintergrund/DSGVO-So-funktionieren-die-neuen-Meldepflichten-bei-Datenpannen-4426089.html)
 * [Die DSGVO hat die Meldepflicht für Datenpannen wesentlich verschärft.](https://www.althammer-kill.de/files/ak/content/publications/AK-Kundenmagazin_2019-02.pdf) Was geht das den „normalen Mitarbeiter“an? Deutlich mehr, als viele glauben!
 * Ist der Verlust eines privaten Handys oder Laptops meldepflichtig oder greift das [Haushaltsprivileg](https://www.datenschutz-notizen.de/ist-der-verlust-eines-privaten-handys-oder-laptops-meldepflichtig-oder-greift-das-haushaltsprivileg-nach-art-2-abs-2-lit-c-dsgvo-3622783/) nach Art. 2 Abs. 2 lit. c DSGVO?
 * BayLfD veröffentlicht [Orientierungshilfe zum Umgang mit Melde- und Benachrichtigungspflichten](http://Orientierungshilfe%20zum%20Umgang%20mit%20Melde-%20und%20Benachrichtigungspflichten)
     * [Meldepflicht und Benachrichtigungspflicht](https://www.datenschutz-bayern.de/datenschutzreform2018/OH_Meldepflichten.pdf) des Verantwortlichen
+
 ### Einwilligungen
 * [Benötigt die Universität meine Einwilligung für die Bewerbung?](https://kubieziel.de/blog/archives/1649-Benoetigt-die-Universitaet-meine-Einwilligung-fuer-die-Bewerbung.html)
 * [Unterliegen Einwilligungserklärungen einem Verfallsdatum?](https://www.datenschutzbeauftragter-info.de/unterliegen-einwilligungserklaerungen-einem-verfallsdatum/)
@@ -70,12 +77,15 @@ Zur Rechtslage
 * „[Ich will, dass meine Daten verarbeitet werden!](https://www.datenschutz-bayern.de/presse/20210916_Einwilligung.html)“ Der Bayerische Landesbeauftragte für den Datenschutz veröffentlicht Orientierungshilfe zur Einwilligung in Datenverarbeitungen bayerischer öffentlicher Stellen
 * [Müssen zum Zwecke der ärztlichen Behandlung von Patienten Einwilligungserklärungen eingeholt werden?](https://www.kuketz-blog.de/muss-ein-patient-eine-einwilligungserklaerung-beim-arzt-abgeben/) Nein. Der [LfDI B-W antwortet](https://www.baden-wuerttemberg.datenschutz.de/faq-datenschutz-in-der-arztpraxis/):
 > Nein. Die ärztliche Behandlung wird aufgrund eines Behandlungsvertrages durchgeführt. Diese vertragliche Grundlage stellt eine Befugnis für die Datenverarbeitung gemäß Artikel 9 Abs. 2 Buchstabe h) und Absatz 3 in Verbindung mit Artikel 6 Absatz 1 Satz 1 Buchstabe b) Datenschutz-Grundverordnung (DS-GVO) dar. Alle Verarbeitungen, die zur Erfüllung des Behandlungsvertrages notwendig sind, können auf dieser Rechtsgrundlage durchgeführt werden. Eine Einwilligung ist für die Verarbeitung von personenbezogenen Daten zur Erfüllung des Behandlungsvertrages daher nicht erforderlich. In die Erhebung von Gesundheitsdaten im Zuge einer Anamnese kann im Übrigen durch die Teilnahme an der Untersuchung konkludent eingewilligt werden. Die Weitergabe der Patientendaten an eine private Abrechnungsstelle ist – wie bisher auch – vom Behandlungsvertrag nicht abgedeckt. Hierfür ist eine entsprechende Einwilligung einzuholen.
+* EuGH-Urteil: Im Voraus angekreuzte [Kästchen](https://netzpolitik.org/2020/eugh-urteil-im-voraus-angekreuzte-kaestchen-sind-nicht-legal/) sind nicht legal
+
 ### Videoüberwachung
 * Bundesverwaltungsgericht: [Gesetz für mehr Videoüberwachung ist nicht anwendbar](https://www.heise.de/newsticker/meldung/Bundesverwaltungsgericht-Gesetz-fuer-mehr-Videoueberwachung-ist-nicht-anwendbar-4436026.html)
 * Bundesverwaltungsgericht stoppt [Videoüberwachungsverbesserungsgesetz](https://datenschutz-hamburg.de/pressemitteilungen/2019/05/2019-05-31-videoueberwachungsgesetz)
 * Datenschutz: [Kameraüberwachung](https://www.heise.de/ct/artikel/Datenschutz-Kameraueberwachung-von-Patientenbereichen-4505889.html?wt_mc=sm.red.ho.botti.messenger.link.link) von Patientenbereichen
 * DSK-Kurzpapier Nr. 15: [Videoüberwachung nach der Datenschutz-Grundverordnung](https://www.datenschutzkonferenz-online.de/media/kp/dsk_kpnr_15.pdf?from=litvz)
 * [Kameras](https://www.golem.de/news/videoueberwachung-kameras-sind-ueberall-aber-nicht-ueberall-erlaubt-1912-144885.html) sind überall, aber nicht überall erlaubt
+
 ### Facebook
 * [Irische Behörde will Facebook prüfen – Wissenschaftlicher Dienst legt Gutachten zu Social-Plugins vor](https://www.datenschutzticker.de/2011/10/irische-behoerde-will-facebook-pruefen-wissenschaftlicher-dienst-legt-gutachten-zu-social-plugins-vor/)
 * EUGH-Urteil: [Müssen nun alle Facebook-Seiten geschlossen werden?](https://allfacebook.de/policy/eugh-urteil)
@@ -88,6 +98,7 @@ Zur Rechtslage
 * Datenschutz: [Ausübung des Beschwerderechts gem. Art. 77 DSGVO am Beispiel ZEIT ONLINE](https://www.kuketz-blog.de/datenschutz-ausuebung-des-beschwerderechts-gem-art-77-dsgvo-am-beispiel-zeit-online/)
 * BGH stoppt Facebook und gibt [Bundeskartellamt](https://www.wuv.de/tech/bgh_stoppt_facebook_und_gibt_bundeskartellamt_recht) recht
 * [Wiener Gericht](https://www.heise.de/news/Wiener-Gericht-findet-bei-Facebook-keine-rechtswidrige-Datenverarbeitung-4801389.html) findet bei Facebook „keine rechtswidrige Datenverarbeitung“
+
 ### Abmahnungen und Bußgelder
 * DSGVO [Bußgeldsimulator](https://www.werning.com/dsgvo-bussgeldrechner/)
 * DSGVO-Sanktionen: Bundesdatenschützer kündigt [härtere Gangart](https://www.heise.de/newsticker/meldung/DSGVO-Sanktionen-Bundesdatenschuetzer-kuendigt-haertere-Gangart-an-4523220.html) an
@@ -187,19 +198,19 @@ Zur Rechtslage
 ### Google Analytics
 * [Datenschützer fordern Einwilligung bei Google Analytics](https://www.golem.de/news/nutzertracking-datenschuetzer-fordern-einwilligung-bei-google-analytics-1911-144988.html)
 * [Google Analytics and data transfers - how to make your analytics tool GDPR compliant](https://www.cnil.fr/en/google-analytics-and-data-transfers-how-make-your-analytics-tool-compliant-gdpr)
-However, simply changing the processing settings of the IP address is not sufficient to meet he requirements of the CJEU, especially as these continue to be transferred to the US.  Another idea often put forward is the use of "encryption" of the identifier generated by Google Analytics, or replacing it with an identifier generated by the site operator. However, in practice, this provides little to no additional guarantee against possible re-identification of data subjects, mainly due to the persistent processing of the IP address by Google.
+> However, simply changing the processing settings of the IP address is not sufficient to meet he requirements of the CJEU, especially as these continue to be transferred to the US.  Another idea often put forward is the use of "encryption" of the identifier generated by Google Analytics, or replacing it with an identifier generated by the site operator. However, in practice, this provides little to no additional guarantee against possible re-identification of data subjects, mainly due to the persistent processing of the IP address by Google.
 
-The fundamental problem that prevents these measures from addressing the issue of access of data by non-European authorities is that of direct contact, via an HTTPS connection, between the individual's terminal and servers managed by Google.
+> The fundamental problem that prevents these measures from addressing the issue of access of data by non-European authorities is that of direct contact, via an HTTPS connection, between the individual's terminal and servers managed by Google.
 
-The resulting requests allow these servers to obtain the IP address of the Internet user as well as a lot of information about his terminal. This information may realistically allow the user to be re-identified and, consequently, to access his or her browsing on all sites using Google Analytics.
+> The resulting requests allow these servers to obtain the IP address of the Internet user as well as a lot of information about his terminal. This information may realistically allow the user to be re-identified and, consequently, to access his or her browsing on all sites using Google Analytics.
 
-Only solutions allowing to break this contact between the terminal and the server can address this issue. Beyond the case of Google Analytics, this type of solution could also make it possible to reconcile the use of other analytics tools with the GDPR rules on data transfer.
+> Only solutions allowing to break this contact between the terminal and the server can address this issue. Beyond the case of Google Analytics, this type of solution could also make it possible to reconcile the use of other analytics tools with the GDPR rules on data transfer.
 
-In view of the criteria mentioned above, one possible solution is the use of a proxy server to avoid any direct contact between the Internet user's terminal and the servers of the analytics tool (in this case Google). However, it must be ensured that this server fulfills a set of criteria in order to be able to consider that this additional measure is in line with what is presented by the EDPB in his recommendations of 18 June 2021. Indeed, such a process would correspond to the use case of pseudonymisation before data export.
+> In view of the criteria mentioned above, one possible solution is the use of a proxy server to avoid any direct contact between the Internet user's terminal and the servers of the analytics tool (in this case Google). However, it must be ensured that this server fulfills a set of criteria in order to be able to consider that this additional measure is in line with what is presented by the EDPB in his recommendations of 18 June 2021. Indeed, such a process would correspond to the use case of pseudonymisation before data export.
 
-As stated in these recommendations, such an export is only possible if the controller has established, through a thorough analysis, that the pseudonymised personal data cannot be attributed to an identified or identifiable individual, even if cross-checked with other information.
+> As stated in these recommendations, such an export is only possible if the controller has established, through a thorough analysis, that the pseudonymised personal data cannot be attributed to an identified or identifiable individual, even if cross-checked with other information.
 
-It is therefore necessary, beyond the simple absence of a request from the user's terminal to the servers of the analytics tool, to ensure that all of the information transmitted does not in any way allow the person to be re-identified, even when considering the considerable means available to the authorities likely to carry out such re-identification.
+> It is therefore necessary, beyond the simple absence of a request from the user's terminal to the servers of the analytics tool, to ensure that all of the information transmitted does not in any way allow the person to be re-identified, even when considering the considerable means available to the authorities likely to carry out such re-identification.
 
 Das Dokument beschreibt im Weiteren die nötigen Anonymisierungen, die im Kern auf das Vermeiden von Browser Fingerprinting hinauslaufen.
 
