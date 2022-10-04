@@ -58,6 +58,7 @@ Zur Rechtslage
 * [Missbrauchtes Auskunftsrecht: Grenzen des Auskunftsrechts nach der DSGVO](https://www.heise.de/hintergrund/Missbrauchtes-Auskunftsrecht-Grenzen-des-Auskunftsrechts-nach-der-DSGVO-7203394.html?seite=all) Es steht jedem das Recht auf Auskunft zu den über seine Person gespeicherten Daten zu. Dieses Recht kann entfallen, wenn es missbräuchlich genutzt wird.
 * LG Mosbach: [DSGVO-Auskunft: Auskunftspflicht über Herkunft der Daten](https://www.dr-bahr.com/news/dsgvo-auskunft-auskunftspflicht-ueber-herkunft-der-daten.html?utm_source=dlvr.it&utm_medium=twitter)
 * Keine [Unterschrift](https://www.datenanfragen.de/blog/abis-unterschrift-dsgvo-anfragen/) für DSGVO-Anfragen nötig: Erfolgreiche Beschwerde gegen die ABIS GmbH
+* [DSGVO-Auskunftsrecht – Foltermittel oder Menschenrecht? – Rechtsbelehrung 109](https://rechtsbelehrung.com/109-dsgvo-auskunft/)
 
 ### Meldepflicht
 * DSGVO: [So funktionieren die neuen Meldepflichten bei Datenpannen](https://www.heise.de/hintergrund/DSGVO-So-funktionieren-die-neuen-Meldepflichten-bei-Datenpannen-4426089.html)
