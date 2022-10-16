@@ -60,7 +60,7 @@ Praktische Hinweise
 * [Wie Google Fonts DSGVO-konform werden](https://www.datenschutzbeauftragter-info.de/wie-google-fonts-dsgvo-konform-werden/)
 * Unterlassungsanspruch und Schadensersatz (hier 100 €) wg. Weitergabe von IP-Adresse an Google durch Nutzung von [Google Fonts](https://rewis.io/urteile/urteil/lhm-20-01-2022-3-o-1749320/)
 * [Angeblicher DSGVO-Verstoß: Abmahnwelle wegen Google Fonts](https://www.heise.de/news/DSGVO-Abmahnwelle-wegen-Google-Fonts-7206364.html)
-* [LG München: Einbindung von Google Fonts ohne Einwilligung(https://www.ra-plutte.de/lg-muenchen-dynamische-einbindung-google-web-fonts-ist-dsgvo)
+* [LG München: Einbindung von Google Fonts ohne Einwilligung](https://www.ra-plutte.de/lg-muenchen-dynamische-einbindung-google-web-fonts-ist-dsgvo)
 ### Cookies
 * DSGVO: [Rechtsgrundlagen und Funktionsweisen von Cookie-Hinweisen](https://www.heise.de/newsticker/meldung/DSGVO-Rechtsgrundlagen-und-Funktionsweisen-von-Cookie-Hinweisen-4430026.html)
 * [Das müssen Sie bei Tracking-Cookies beachten](https://www.heise.de/hintergrund/Das-muessen-Sie-bei-Tracking-Cookies-beachten-4415648.html)
