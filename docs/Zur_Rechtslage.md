@@ -34,6 +34,7 @@ Zur Rechtslage
 ### Google Fonts
 * [Google-Fonts-Urteil](https://dr-dsgvo.de/google-fonts-urteil-rechtskraeftig-auswirkungen/) rechtskräftig: Auswirkungen auf Google Maps und reCAPTCHA
 * [Abmahnungen an Webseitenbetreiber mit Google-Schriftarten](https://www.golem.de/news/google-fonts-abmahnungen-an-webseitenbetreiber-mit-google-schriftarten-2208-167472.html) Nach einer Entscheidung des Landgerichts München erhalten Webseitenbetreiber mit eingebundenen Google Fonts vermehrt Abmahnungen.
+* Florian Dalwigk: [Google-Fonts-Abmahnung verhindern](https://youtu.be/P1950vYgqzE)
 
 ### Mythen
 * [Mythen und gefährliches Halbwissen zum neuen europäischen Datenschutzrecht](http://www.rechtzweinull.de/archives/2558-mein-erster-dgsvo-rant-zu-viele-mythen-und-gefaehrliches-halbwissen-zum-neuen-europaeischen-datenschutzrecht.html)
