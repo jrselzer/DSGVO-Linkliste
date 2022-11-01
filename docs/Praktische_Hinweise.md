@@ -83,6 +83,7 @@ Praktische Hinweise
 * Versteigerte Werbeplätze: So funktioniert [Programmatic Advertising](https://www.heise.de/ct/artikel/Versteigerte-Werbeplaetze-So-funktioniert-Programmatic-Advertising-4203227.html)
 * Der ultimative [Cookie-Datenschutz-Ratgeber](https://datenschutz-generator.de/cookies-datenschutz-ratgeber/)
 * [Cookies und Datenschutz: Zwischen TTDSG und DSGVO](https://www.dr-datenschutz.de/cookies-und-datenschutz-zwischen-ttdsg-und-dsgvo/)
+* [Erfolgreiche Abmahn-Kampagne: Tricksende Cookie-Banner gehen zurück](https://netzpolitik.org/2022/erfolgreiche-abmahn-kampagne-tricksende-cookie-banner-gehen-zurueck/) Nach hunderten Abmahnungen wegen illegaler Cookie-Banner setzen sich DSGVO-konforme Einwilligungsdialoge mehr und mehr durch, sagt noyb. Die Nichtregierungsorganisation bleibt trotzdem am Ball und kündigt eine Ausweitung der Kampagne an.
 ### WordPress
 * [DSGVO für WordPress Praktiker](https://www.storemotion.de/2018/05/11/dsgvo-fuer-wordpress-praktiker/)
 * DSGVO-Checkliste: [WordPress datenschutzkonform einsetzen](https://www.heise.de/ix/meldung/DSGVO-Checkliste-WordPress-datenschutzkonform-einsetzen-4138135.html)
