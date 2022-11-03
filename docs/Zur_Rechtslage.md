@@ -242,6 +242,7 @@ Das Dokument beschreibt im Weiteren die nötigen Anonymisierungen, die im Kern a
 * LfDI B: Datenschutz bei [Bild-, Ton-und Videoaufnahmen](https://www.datenschutz-berlin.de/fileadmin/user_upload/pdf/publikationen/informationsmaterialien/2020-BlnBDI-Datenschutz_Bild_Ton_Video.pdf)
 * [Wann ist ein Bildzitat erlaubt? – Anleitung mit Beispielen und Checkliste](https://drschwenke.de/wann-ist-ein-bildzitat-erlaubt-anleitung-mit-beispielen-und-checkliste/)
 * [DSGVO-Ratgeber für private Fotos: Wann muss ich um Erlaubnis bitten?](https://www.heise.de/ratgeber/Private-Fotos-Wann-muss-ich-um-Erlaubnis-bitten-7324852.html)
+* [DSGVO-Urteil: Bürger dürfen Falschparker für Anzeigen fotografieren](https://www.heise.de/news/DSGVO-Urteil-Buerger-duerfen-Falschparker-zum-Anzeigen-fotografieren-7328875.html)
 ### Whatsapp im staatlichen Datenschutz
 * [WhatsApp ist nun offiziell illegal! Welche Strafen drohen dir?](https://www.youtube.com/watch?v=hcSjM3g4n-0) | Rechtsanwalt Christian Solmecke
 * Whatsapp und die DSGVO: [Darf der Messenger auf dem Firmenhandy bleiben?](https://www.e-recht24.de/artikel/datenschutz/11023-whatsapp-auf-firmenhandy-nach-dsgvo-erlaubt-oder-nicht.html)
