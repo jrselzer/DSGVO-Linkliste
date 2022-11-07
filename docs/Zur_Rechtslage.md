@@ -32,14 +32,18 @@ Zur Rechtslage
 * Persönlichkeitsrecht: Pressearchive dürfen auch [Unangenehmes](https://www.heise.de/hintergrund/Persoenlichkeitsrecht-Pressearchive-duerfen-auch-Unangenehmes-lange-vorhalten-4883698.html) lange vorhalten
 
 ### Google Fonts
-* [Google-Fonts-Urteil](https://dr-dsgvo.de/google-fonts-urteil-rechtskraeftig-auswirkungen/) rechtskräftig: Auswirkungen auf Google Maps und reCAPTCHA
-* [Abmahnungen an Webseitenbetreiber mit Google-Schriftarten](https://www.golem.de/news/google-fonts-abmahnungen-an-webseitenbetreiber-mit-google-schriftarten-2208-167472.html) Nach einer Entscheidung des Landgerichts München erhalten Webseitenbetreiber mit eingebundenen Google Fonts vermehrt Abmahnungen.
+* Dr DSGVO: [Google-Fonts-Urteil](https://dr-dsgvo.de/google-fonts-urteil-rechtskraeftig-auswirkungen/) rechtskräftig: Auswirkungen auf Google Maps und reCAPTCHA
+* Golem: [Abmahnungen an Webseitenbetreiber mit Google-Schriftarten](https://www.golem.de/news/google-fonts-abmahnungen-an-webseitenbetreiber-mit-google-schriftarten-2208-167472.html) Nach einer Entscheidung des Landgerichts München erhalten Webseitenbetreiber mit eingebundenen Google Fonts vermehrt Abmahnungen.
 * Florian Dalwigk: [Google-Fonts-Abmahnung verhindern](https://youtu.be/P1950vYgqzE)
 * kaffeeringe.de: [Google-Fonts-Abmahnung „Am besten wegschmeißen“](https://kaffeeringe.de/2022/11/02/am-besten-wegschmeissen/)
 * Thomas Schwenke: [Google Fonts Abmahnungen: Ratgeber mit FAQ, Beispielen, Checkliste und Musterantwort](https://drschwenke.de/google-fonts-abmahnung/)
 * Thomas Schwenke: [Abmahnung wegen Google Fonts erhalten? Ratgeber mit FAQ, Beispielen und Musterantwort](https://datenschutz-generator.de/abmahnungen-google-fonts/)
 * Sicher^3: [Prüfe Deine Webseite!](https://sicher3.de/google-fonts-checker/)
 * Webmontag Kiel auf Youtube: [#GoogleFonts Abmahnung - Was tun?](https://www.youtube.com/watch?v=AqFo7Olm8E4)
+* Heiko Vogelsang: [Google Fonts - Das Problem mit den Abmahnungen und der DSGVO](https://heiko.vogelgesang.berlin/blogs/blog/google-fonts-das-problem-mit-den-abmahnungen-und-der-dsgvo) Ich habe aufgehört zu zählen, aber es waren auf jeden Fall zu viele. Zu viele Abmahnungen. Und auch Kundenanfragen, mit der Bitte, ganz schnell die Google Fonts auszubauen. Zeit, die aktuelle Situation zusammenzufassen.
+* Christian Franz, LL.M. bei CR online: [Google Fonts: Aufdringliche Abmahnungen](https://www.cr-online.de/blog/2022/11/04/google-fonts-aufdringliche-abmahnungen/) Die neueste Sau im Datenschutz-Dorf: Massenabmahnungen wegen extern eingebundener Schriften auf Websites. So reagiert man richtig.
+* heise: [Angeblicher DSGVO-Verstoß: Abmahnwelle wegen Google Fonts](https://www.heise.de/news/DSGVO-Abmahnwelle-wegen-Google-Fonts-7206364.html)
+* Dr DSGVO: [Google Fonts Abmahnung: Gefordertes Geld bezahlen ist nicht die beste Idee](https://dr-dsgvo.de/google-fonts-abmahnung-gefordertes-geld-zahlen-ist-nicht-die-beste-idee/) Wer eine Abmahnung wegen Google Fonts erhalten hat, sollte vor allem eines tun: das geforderte Geld nicht bezahlen und den Google Fonts Verstoß schnellstmöglich abstellen. Nicht auf Massenabmahnungen zu antworten ist oft auch keine schlechte Idee. Mehrere Gründe sprechen für dieses Vorgehen. Ein Ratgeber.
 
 ### Mythen
 * [Mythen und gefährliches Halbwissen zum neuen europäischen Datenschutzrecht](http://www.rechtzweinull.de/archives/2558-mein-erster-dgsvo-rant-zu-viele-mythen-und-gefaehrliches-halbwissen-zum-neuen-europaeischen-datenschutzrecht.html)
