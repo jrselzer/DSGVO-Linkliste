@@ -32,6 +32,7 @@ Zur Rechtslage
 * Persönlichkeitsrecht: Pressearchive dürfen auch [Unangenehmes](https://www.heise.de/hintergrund/Persoenlichkeitsrecht-Pressearchive-duerfen-auch-Unangenehmes-lange-vorhalten-4883698.html) lange vorhalten
 
 ### Google Fonts
+* RA Plutte: [LG München: Einbindung von Google Fonts ohne Einwilligung](https://www.ra-plutte.de/lg-muenchen-dynamische-einbindung-google-web-fonts-ist-dsgvo)
 * Dr DSGVO: [Google-Fonts-Urteil](https://dr-dsgvo.de/google-fonts-urteil-rechtskraeftig-auswirkungen/) rechtskräftig: Auswirkungen auf Google Maps und reCAPTCHA
 * Golem: [Abmahnungen an Webseitenbetreiber mit Google-Schriftarten](https://www.golem.de/news/google-fonts-abmahnungen-an-webseitenbetreiber-mit-google-schriftarten-2208-167472.html) Nach einer Entscheidung des Landgerichts München erhalten Webseitenbetreiber mit eingebundenen Google Fonts vermehrt Abmahnungen.
 * Florian Dalwigk: [Google-Fonts-Abmahnung verhindern](https://youtu.be/P1950vYgqzE)
