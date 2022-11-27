@@ -306,7 +306,13 @@ Das Dokument beschreibt im Weiteren die nötigen Anonymisierungen, die im Kern a
 * [Videokonferenz mit Zoom und Co.](https://www.lto.de/recht/hintergruende/h/datenschutz-behoerden-dsgvo-zoom-videokonferenz-unsicherheit/) Denn sie wollen wissen, was sie tun (dürfen)
 * Microsoft veröffentlicht [Datenschutzverpflichtung](https://www.heise.de/ix/meldung/Microsoft-veroeffentlicht-Datenschutzverpflichtung-fuer-Teams-4710766.html) für Teams
 * Böse GIFs: Microsoft-Teams-Konten mit [verminten Bildern](https://www.heise.de/security/meldung/Boese-GIFs-Microsoft-Teams-Konten-mit-verminten-Bildern-kapern-4711282.html) kapern
-* [Schulsoftware](https://www.heise.de/newsticker/meldung/Schulsoftware-Threema-ja-Zoom-und-Microsoft-Office-365-eher-nicht-4711961.html): Threema ja, Zoom und Microsoft Office 365 eher nicht
+* Microsoft 365
+  * heise: [Schulsoftware](https://www.heise.de/newsticker/meldung/Schulsoftware-Threema-ja-Zoom-und-Microsoft-Office-365-eher-nicht-4711961.html): Threema ja, Zoom und Microsoft Office 365 eher nicht
+  * [Datenschutzkonferenz: Microsoft 365 ist und bleibt datenschutzwidrig](https://www.heise.de/news/Datenschutzkonferenz-Microsoft-365-ist-und-bleibt-datenschutzwidrig-7352065.html) Einzelne Fortschritte Microsofts erkennen die Datenschützer Deutschlands an. Das reicht nicht. 
+  * Cashys Blog: [Microsoft 365 bleibt laut Datenschutzkonferenz datenschutzwidrig](https://stadt-bremerhaven.de/microsoft-365-bleibt-laut-datenschutzkonferenz-datenschutzwidrig/) Laut der deutschen Datenschutzkonferenz (DSK) bleibt Microsoft 365 datenschutzwidrig und sei damit beispielsweise nicht für die rechtskonforme Verwendung in Schulen oder Behörden geeignet. Es gebe zwar leichte Fortschritte, allerdings reiche das keineswegs aus, um den rechtlichen Anforderungen an Privatsphäre und Sicherheit gerecht zu werden.
+  * Golem: [Einsatz von Microsoft 365 bleibt datenschutzwidrig](https://www.golem.de/news/datenschutzkonferenz-einsatz-von-microsoft-365-bleibt-datenschutzwidrig-2211-170050.html) Die Dokumentation der Datentransfers von Microsoft 365 reicht noch immer nicht aus, um einen rechtmäßigen Einsatz nachzuweisen. 
+  * Datenschutzkonferenz: [AG DSK „Microsoft-Onlinedienste“ - Zusammenfassung der Bewertung der aktuellen Vereinbarung zur
+Auftragsverarbeitung](https://datenschutzkonferenz-online.de/media/dskb/2022_24_11_festlegung_MS365_zusammenfassung.pdf) (PDF)
 * Cisco Webex Dienste erhalten Testat nach [BSI C5](https://news-blogs.cisco.com/emear/de/2019/04/02/cisco-webex-dienste-erhalten-testat-nach-bsi-c5-standard/) Standard
 * Kommentar: „[Warum prügelt ihr alle auf Zoom ein?](https://www.heise.de/meinung/Kommentar-Warum-pruegelt-ihr-alle-auf-Zoom-ein-4771225.html)„
 * Zoom security issues: Here’s [everything that’s gone wrong](https://www.tomsguide.com/news/zoom-security-privacy-woes) (so far)
