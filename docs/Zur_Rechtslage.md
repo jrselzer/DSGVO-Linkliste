@@ -95,6 +95,9 @@ Zur Rechtslage
 > Nein. Die ärztliche Behandlung wird aufgrund eines Behandlungsvertrages durchgeführt. Diese vertragliche Grundlage stellt eine Befugnis für die Datenverarbeitung gemäß Artikel 9 Abs. 2 Buchstabe h) und Absatz 3 in Verbindung mit Artikel 6 Absatz 1 Satz 1 Buchstabe b) Datenschutz-Grundverordnung (DS-GVO) dar. Alle Verarbeitungen, die zur Erfüllung des Behandlungsvertrages notwendig sind, können auf dieser Rechtsgrundlage durchgeführt werden. Eine Einwilligung ist für die Verarbeitung von personenbezogenen Daten zur Erfüllung des Behandlungsvertrages daher nicht erforderlich. In die Erhebung von Gesundheitsdaten im Zuge einer Anamnese kann im Übrigen durch die Teilnahme an der Untersuchung konkludent eingewilligt werden. Die Weitergabe der Patientendaten an eine private Abrechnungsstelle ist – wie bisher auch – vom Behandlungsvertrag nicht abgedeckt. Hierfür ist eine entsprechende Einwilligung einzuholen.
 * EuGH-Urteil: Im Voraus angekreuzte [Kästchen](https://netzpolitik.org/2020/eugh-urteil-im-voraus-angekreuzte-kaestchen-sind-nicht-legal/) sind nicht legal
 
+### Cookie-Banner
+* Golem: [Gericht verbietet Cookie-Banner von Focus.de](https://www.golem.de/news/tracking-gericht-verbietet-cookie-banner-von-focus-de-2301-170904.html) Verbraucherschützer haben erfolgreich gegen das Portal Focus.de geklagt. Die Cookie-Banner verstießen gegen den Datenschutz.
+
 ### Videoüberwachung
 * Bundesverwaltungsgericht: [Gesetz für mehr Videoüberwachung ist nicht anwendbar](https://www.heise.de/newsticker/meldung/Bundesverwaltungsgericht-Gesetz-fuer-mehr-Videoueberwachung-ist-nicht-anwendbar-4436026.html)
 * Bundesverwaltungsgericht stoppt [Videoüberwachungsverbesserungsgesetz](https://datenschutz-hamburg.de/pressemitteilungen/2019/05/2019-05-31-videoueberwachungsgesetz)
