@@ -260,6 +260,7 @@ Das Dokument beschreibt im Weiteren die nötigen Anonymisierungen, die im Kern a
 * [Wann ist ein Bildzitat erlaubt? – Anleitung mit Beispielen und Checkliste](https://drschwenke.de/wann-ist-ein-bildzitat-erlaubt-anleitung-mit-beispielen-und-checkliste/)
 * [DSGVO-Ratgeber für private Fotos: Wann muss ich um Erlaubnis bitten?](https://www.heise.de/ratgeber/Private-Fotos-Wann-muss-ich-um-Erlaubnis-bitten-7324852.html)
 * [DSGVO-Urteil: Bürger dürfen Falschparker für Anzeigen fotografieren](https://www.heise.de/news/DSGVO-Urteil-Buerger-duerfen-Falschparker-zum-Anzeigen-fotografieren-7328875.html)
+
 ### Whatsapp im staatlichen Datenschutz
 * [WhatsApp ist nun offiziell illegal! Welche Strafen drohen dir?](https://www.youtube.com/watch?v=hcSjM3g4n-0) | Rechtsanwalt Christian Solmecke
 * Whatsapp und die DSGVO: [Darf der Messenger auf dem Firmenhandy bleiben?](https://www.e-recht24.de/artikel/datenschutz/11023-whatsapp-auf-firmenhandy-nach-dsgvo-erlaubt-oder-nicht.html)
@@ -274,6 +275,8 @@ Das Dokument beschreibt im Weiteren die nötigen Anonymisierungen, die im Kern a
 * WhatsApp bei Lehrern: [Kultusministerkonferenz sieht Probleme bei Datenschutz](https://www.heise.de/newsticker/meldung/WhatsApp-bei-Lehrern-Kultusministerkonferenz-sieht-Probleme-bei-Datenschutz-4312184.html)
 * Messenger-Dienste in [Kanzleien](https://www.lto.de/recht/job-karriere/j/whatsapp-datenschutz-dsgvo-kanzleien-mandatsgeheimnis/): Oft genutzt aber selten zulässig
 * [WhatsApp Business im Unternehmen](https://www.datenschutz-notizen.de/whatsapp-business-im-unternehmen-datenschutzrechtlich-zulaessig-2424159/) – Datenschutzrechtlich zulässig?
+* [Whatsapp-Nutzung bei Pflegediensten](https://datenschutz-agentur.de/blog/whatsapp-nutzung-bei-pflegediensten/) WhatsApp darf von Pflegediensten zum Austausch über Patient:innen nicht eingesetzt werden.
+
 ### Signal
 * [Signal Review](https://securitygladiators.com/signal-review/) (The complete edition you have to read)
 * [Signal Review](https://proprivacy.com/privacy-service/review/signal)
@@ -283,6 +286,7 @@ Das Dokument beschreibt im Weiteren die nötigen Anonymisierungen, die im Kern a
 * Signal Audit Reveals Protocol [Cryptographically Sound](https://threatpost.com/signal-audit-reveals-protocol-cryptographically-sound/121892/)
 * [A Formal Security Analysis](https://eprint.iacr.org/2016/1013.pdf) of the Signal Messaging Protocol (PDF)
 * Whatsapp-Alternative: Warum es okay ist, dass Signal [Google](https://www.golem.de/news/whatsapp-alternative-warum-es-okay-ist-dass-signal-google-server-nutzt-2101-153764.html)-Server nutzt
+
 ### Videotelefonie und -konferenzen
 * Datenschutzfreundliche technische [Möglichkeiten](https://www.baden-wuerttemberg.datenschutz.de/datenschutzfreundliche-technische-moeglichkeiten-der-kommunikation/) der Kommunikation
 * DSGVO-sicher? [Videokonferenzen, Onlinemeetings und Webinare](https://datenschutz-generator.de/dsgvo-video-konferenzen-online-meeting/) (mit Anbieterübersicht und Checkliste)
@@ -334,16 +338,19 @@ Auftragsverarbeitung](https://datenschutzkonferenz-online.de/media/dskb/2022_24_
 * BfD-EKD: [Videokonferenzsysteme in Kirche und Diakonie](https://datenschutz.ekd.de/2020/04/03/videokonferenzsysteme-in-kirche-und-diakonie/)
 * Videokonferenzen: Schwachstellen in Zoom ermöglichen [Rechteausweitung](https://www.heise.de/news/Videokonferenzen-Schwachstellen-in-Zoom-ermoeglichen-Rechteausweitung-und-mehr-7069420.html) und mehr
 * Datenschutz: Cisco [Webex](https://heise.de/-6713788) telefonierte selbst stummgeschaltet nach Hause
+
 #### Jitsi
 * Jitsi Meet: Datenschutzfreundlich ohne [Google STUN-Server](https://www.kuketz-blog.de/jitsi-meet-datenschutzfreundlich-ohne-google-stun-server/)
 * Vulnerability: [Unsafe default passwords](https://www.no1geekfun.com/vulnerability-unsafe-default-passwords-in-jitsi-meet/) in Jitsi Meet
 * [Tracking in the iOS and Android Apps](https://github.com/jitsi/jitsi-meet/issues/5799); GDPR #5799
 * This is what [end-to-end encryption](https://jitsi.org/blog/e2ee/) should look like!
+
 #### Houseparty und Datenschutz
 * [Houseparty](https://www.kuketz-blog.de/houseparty-eine-party-ohne-den-datenschutz/): eine Party ohne den Datenschutz
 * [Houseparty](https://www.appgefahren.de/houseparty-video-gruppenchat-anwendung-ist-eine-grosse-datenkrake-191569.html): Video-Gruppenchat-Anwendung ist eine große Datenkrake
 * Wie Millionen jetzt virtuelle „[Housepartys](https://ze.tt/wie-millionen-jetzt-virtuelle-housepartys-schmeissen-und-dafuer-ihre-daten-aufgeben-corona-krise-datenschutz/)“ schmeißen – und dafür ihre Daten aufgeben
 * Beliebte [Video-Chat-App](https://www.androidpit.de/houseparty-die-video-chat-anwendung-sammelt-eure-daten) sammelt Eure Daten im ganz großen Stil
+
 #### Zoom und DSGVO-Konformität
 * Der „[Datenschutz-Guru](https://www.datenschutz-guru.de/datenschutzhinweise-zoom/)“ Stephan Hansen-Oest urteilt positiv.
     * Zoom ist keine [Datenschleuder](https://www.datenschutz-guru.de/zoom-ist-keine-datenschleuder/)
@@ -431,5 +438,6 @@ Auftragsverarbeitung](https://datenschutzkonferenz-online.de/media/dskb/2022_24_
 * LfDI-BW: Warnung des LfDI wurde gehört – [Zoom bessert nach](https://www.baden-wuerttemberg.datenschutz.de/warnung-des-lfdi-wurde-gehoert-zoom-bessert-nach/)
 * Hamburgs Datenschutzbeauftragter hat die [Senatskanzlei](https://www.golem.de/news/videokonferenzdienst-hamburg-vor-rechtswidrigem-zoom-einsatz-gewarnt-2108-158915.html) offiziell vor dem Einsatz von Zoom gewarnt. Dieser sei rechtswidrig.
 * Golem: [Datenschutzbeauftragter erlaubt Zoom-Einsatz unter Auflagen](https://www.golem.de/news/videokonferenz-datenschutzbeauftragter-erlaubt-zoom-einsatz-unter-auflagen-2206-166255.html) An hessischen Hochschulen darf Zoom weiter genutzt werden, sofern die Maßnahmen des Hessischen Modells umgesetzt werden.
+
 #### Skype an Schulen
 * [Ja, nein, ein bisschen?](https://eduagora.de/2020/03/26/skype-ja-nein-ein-bisschen/)
