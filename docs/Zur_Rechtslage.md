@@ -185,6 +185,8 @@ Zur Rechtslage
 * Millionen-Bußgeld wegen Videoüberwachung gegen [notebooksbilliger](https://www.heise.de/news/Millionen-Bussgeld-wegen-Videoueberwachung-gegen-notebooksbilliger-de-5018458.html).de
 * „[Grindr](https://noyb.eu/en/gay-dating-app-grindr-be-fined-almost-eu-10-mio)“ to be fined almost € 10 Mio over GDPR complaint. The Gay Dating App was illegally sharing sensitive data of millions of users.
 * Datenschutzbeauftragter Baden-Württemberg: 300.000,- EUR DSGVO-Bußgeld gegen [VfB Stuttgart](https://www.dr-bahr.com/news/datenschutzbeauftragter-baden-wuerttemberg-300000-eur-dsgvo-bussgeld-gegen-vfb-stuttgart.html)
+* heise: [DSGVO: Summe der Bußgelder steigt deutlich, gemeldete Datenpannen gehen zurück](https://www.heise.de/news/DSGVO-Summe-der-Bussgelder-steigt-deutlich-gemeldete-Datenpannen-gehen-zurueck-7471587.html) Europäische Datenschützer verhängten 2022 im Vergleich zum Vorjahr rund 50 Prozent mehr Strafen wegen Datenschutzverletzungen, zeigt ein Report von DLA Piper.
+
 #### Abmahnungen
 * [DSGVO-Abmahnungen: Das sind die wichtigsten Urteile](https://www.handwerk.com/dsgvo-abmahnungen-das-sind-die-wichtigsten-urteile)
 * [Rechtsanwältin Nina Diercks zum Abmahnrisiko](https://www.evernote.com/shard/s344/sh/aad60f3b-3c66-411c-a354-cf08488ebc84/b6f7beaf2c0f8563)
@@ -214,6 +216,7 @@ Zur Rechtslage
 * Bundestag beschließt [Gesetz gegen Abmahnmissbrauch](https://www.heise.de/news/Bundestag-beschliesst-Gesetz-gegen-Abmahnmissbrauch-4891418.html)
 * Neue [Regeln gegen Abmahnmissbrauch](https://www.golem.de/news/bundestag-neue-regeln-gegen-abmahnmissbrauch-verabschiedet-2009-150810.html) verabschiedet
 * Ein Anwalt fordert [mindestens 500 Euro für eine unerwünschte Werbe-Mail](https://www.faz.net/aktuell/wirtschaft/digitec/dsgvo-in-deutschen-unternehmen-klagen-nehmen-zu-17211383.html), das Gericht lehnt ab. Jetzt ist das Bundesverfassungsgericht dagegen eingeschritten.
+
 ### Google Analytics
 * [Datenschützer fordern Einwilligung bei Google Analytics](https://www.golem.de/news/nutzertracking-datenschuetzer-fordern-einwilligung-bei-google-analytics-1911-144988.html)
 * [Google Analytics and data transfers - how to make your analytics tool GDPR compliant](https://www.cnil.fr/en/google-analytics-and-data-transfers-how-make-your-analytics-tool-compliant-gdpr)
