@@ -320,13 +320,6 @@ Das Dokument beschreibt im Weiteren die nötigen Anonymisierungen, die im Kern a
 * [Videokonferenz mit Zoom und Co.](https://www.lto.de/recht/hintergruende/h/datenschutz-behoerden-dsgvo-zoom-videokonferenz-unsicherheit/) Denn sie wollen wissen, was sie tun (dürfen)
 * Microsoft veröffentlicht [Datenschutzverpflichtung](https://www.heise.de/ix/meldung/Microsoft-veroeffentlicht-Datenschutzverpflichtung-fuer-Teams-4710766.html) für Teams
 * Böse GIFs: Microsoft-Teams-Konten mit [verminten Bildern](https://www.heise.de/security/meldung/Boese-GIFs-Microsoft-Teams-Konten-mit-verminten-Bildern-kapern-4711282.html) kapern
-* Microsoft 365
-  * heise: [Schulsoftware](https://www.heise.de/newsticker/meldung/Schulsoftware-Threema-ja-Zoom-und-Microsoft-Office-365-eher-nicht-4711961.html): Threema ja, Zoom und Microsoft Office 365 eher nicht
-  * [Datenschutzkonferenz: Microsoft 365 ist und bleibt datenschutzwidrig](https://www.heise.de/news/Datenschutzkonferenz-Microsoft-365-ist-und-bleibt-datenschutzwidrig-7352065.html) Einzelne Fortschritte Microsofts erkennen die Datenschützer Deutschlands an. Das reicht nicht. 
-  * Cashys Blog: [Microsoft 365 bleibt laut Datenschutzkonferenz datenschutzwidrig](https://stadt-bremerhaven.de/microsoft-365-bleibt-laut-datenschutzkonferenz-datenschutzwidrig/) Laut der deutschen Datenschutzkonferenz (DSK) bleibt Microsoft 365 datenschutzwidrig und sei damit beispielsweise nicht für die rechtskonforme Verwendung in Schulen oder Behörden geeignet. Es gebe zwar leichte Fortschritte, allerdings reiche das keineswegs aus, um den rechtlichen Anforderungen an Privatsphäre und Sicherheit gerecht zu werden.
-  * Golem: [Einsatz von Microsoft 365 bleibt datenschutzwidrig](https://www.golem.de/news/datenschutzkonferenz-einsatz-von-microsoft-365-bleibt-datenschutzwidrig-2211-170050.html) Die Dokumentation der Datentransfers von Microsoft 365 reicht noch immer nicht aus, um einen rechtmäßigen Einsatz nachzuweisen. 
-  * Datenschutzkonferenz: [AG DSK „Microsoft-Onlinedienste“ - Zusammenfassung der Bewertung der aktuellen Vereinbarung zur
-Auftragsverarbeitung](https://datenschutzkonferenz-online.de/media/dskb/2022_24_11_festlegung_MS365_zusammenfassung.pdf) (PDF)
 * Cisco Webex Dienste erhalten Testat nach [BSI C5](https://news-blogs.cisco.com/emear/de/2019/04/02/cisco-webex-dienste-erhalten-testat-nach-bsi-c5-standard/) Standard
 * Kommentar: „[Warum prügelt ihr alle auf Zoom ein?](https://www.heise.de/meinung/Kommentar-Warum-pruegelt-ihr-alle-auf-Zoom-ein-4771225.html)„
 * Zoom security issues: Here’s [everything that’s gone wrong](https://www.tomsguide.com/news/zoom-security-privacy-woes) (so far)
@@ -342,6 +335,20 @@ Auftragsverarbeitung](https://datenschutzkonferenz-online.de/media/dskb/2022_24_
 * BfD-EKD: [Videokonferenzsysteme in Kirche und Diakonie](https://datenschutz.ekd.de/2020/04/03/videokonferenzsysteme-in-kirche-und-diakonie/)
 * Videokonferenzen: Schwachstellen in Zoom ermöglichen [Rechteausweitung](https://www.heise.de/news/Videokonferenzen-Schwachstellen-in-Zoom-ermoeglichen-Rechteausweitung-und-mehr-7069420.html) und mehr
 * Datenschutz: Cisco [Webex](https://heise.de/-6713788) telefonierte selbst stummgeschaltet nach Hause
+
+#### Microsoft 365
+* heise: [Schulsoftware](https://www.heise.de/newsticker/meldung/Schulsoftware-Threema-ja-Zoom-und-Microsoft-Office-365-eher-nicht-4711961.html): Threema ja, Zoom und Microsoft Office 365 eher nicht
+* [Datenschutzkonferenz: Microsoft 365 ist und bleibt datenschutzwidrig](https://www.heise.de/news/Datenschutzkonferenz-Microsoft-365-ist-und-bleibt-datenschutzwidrig-7352065.html) Einzelne Fortschritte Microsofts erkennen die Datenschützer Deutschlands an. Das reicht nicht. 
+* Cashys Blog: [Microsoft 365 bleibt laut Datenschutzkonferenz datenschutzwidrig](https://stadt-bremerhaven.de/microsoft-365-bleibt-laut-datenschutzkonferenz-datenschutzwidrig/) Laut der deutschen Datenschutzkonferenz (DSK) bleibt Microsoft 365 datenschutzwidrig und sei damit beispielsweise nicht für die rechtskonforme Verwendung in Schulen oder Behörden geeignet. Es gebe zwar leichte Fortschritte, allerdings reiche das keineswegs aus, um den rechtlichen Anforderungen an Privatsphäre und Sicherheit gerecht zu werden.
+* Golem: [Einsatz von Microsoft 365 bleibt datenschutzwidrig](https://www.golem.de/news/datenschutzkonferenz-einsatz-von-microsoft-365-bleibt-datenschutzwidrig-2211-170050.html) Die Dokumentation der Datentransfers von Microsoft 365 reicht noch immer nicht aus, um einen rechtmäßigen Einsatz nachzuweisen. 
+* Datenschutzkonferenz: [AG DSK „Microsoft-Onlinedienste“ - Zusammenfassung der Bewertung der aktuellen Vereinbarung zur
+Auftragsverarbeitung](https://datenschutzkonferenz-online.de/media/dskb/2022_24_11_festlegung_MS365_zusammenfassung.pdf) (PDF)
+* heise: [Datenschützer: Einsatz von Microsoft Office 365 an Schulen ist unzulässig](https://www.heise.de/newsticker/meldung/Datenschuetzer-Einsatz-von-Microsoft-Office-365-an-Schulen-ist-unzulaessig-4466156.html) Hessens Datenschutzbeauftragter Michael Ronellenfitsch warnt, dass die mit dem Büropaket in der Cloud gespeicherten Daten in den USA abgegriffen werden könnten.
+* IT Medialaw: [Office 365 an Schulen datenschutzrechtlich unzulässig](https://itmedialaw.com/office-365-an-schulen-datenschutzrechtlich-unzulaessig/)
+* Com-Magazin: [Office 365 darf nicht an Schulen eingesetzt werden](https://www.com-magazin.de/news/datenschutz/office-365-an-schulen-eingesetzt-1728803.html)
+* Hub IT: [Microsoft Office 365 an Schulen nicht sicher](https://www.hubit.de/microsoft-office-365-an-schulen-nicht-sicher/)
+* Der Standard: [Deutscher Datenschützer: Office 365 darf an Schulen nicht verwendet werden](https://www.derstandard.de/story/2000106119463/deutscher-datenschuetzer-office-365-darf-an-schulen-nicht-verwendet-werden) Weil personenbezogene Daten in der Cloud gespeichert und von US-Behörden abgegriffen werden können
+* Computerbase: [Datenschutz: Kein Office 365 an deutschen Schulen einsetzbar](https://www.computerbase.de/2019-07/datenschutz-kein-office-365-schulen/) Der Einsatz von Microsoft Office 365 an Schulen ist datenschutzrechtlich unzulässig, soweit Schulen personenbezogene Daten in der europäischen Cloud speichern. Zu diesem Schluss kommt der Hessische Beauftragte für Datenschutz und Informationsfreiheit in einer nun veröffentlichten Stellungnahme.
 
 #### Jitsi
 * Jitsi Meet: Datenschutzfreundlich ohne [Google STUN-Server](https://www.kuketz-blog.de/jitsi-meet-datenschutzfreundlich-ohne-google-stun-server/)
