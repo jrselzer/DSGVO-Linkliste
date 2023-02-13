@@ -349,6 +349,7 @@ Auftragsverarbeitung](https://datenschutzkonferenz-online.de/media/dskb/2022_24_
 * Hub IT: [Microsoft Office 365 an Schulen nicht sicher](https://www.hubit.de/microsoft-office-365-an-schulen-nicht-sicher/)
 * Der Standard: [Deutscher Datenschützer: Office 365 darf an Schulen nicht verwendet werden](https://www.derstandard.de/story/2000106119463/deutscher-datenschuetzer-office-365-darf-an-schulen-nicht-verwendet-werden) Weil personenbezogene Daten in der Cloud gespeichert und von US-Behörden abgegriffen werden können
 * Computerbase: [Datenschutz: Kein Office 365 an deutschen Schulen einsetzbar](https://www.computerbase.de/2019-07/datenschutz-kein-office-365-schulen/) Der Einsatz von Microsoft Office 365 an Schulen ist datenschutzrechtlich unzulässig, soweit Schulen personenbezogene Daten in der europäischen Cloud speichern. Zu diesem Schluss kommt der Hessische Beauftragte für Datenschutz und Informationsfreiheit in einer nun veröffentlichten Stellungnahme.
+* Heise: [Schadenersatz droht: Datenschützer mahnt Aus für Microsoft 365 an Schulen an](https://www.heise.de/news/Schadenersatz-droht-Datenschuetzer-mahnt-Aus-fuer-Microsoft-365-an-Schulen-an-7493247.html) Baden-Württembergs Datenschutzbeauftragter untermauert seinen Appell an Schulen, Microsofts Cloud-Office zu verbannen, mit Verweis auf Schadenersatzforderungen.
 
 #### Jitsi
 * Jitsi Meet: Datenschutzfreundlich ohne [Google STUN-Server](https://www.kuketz-blog.de/jitsi-meet-datenschutzfreundlich-ohne-google-stun-server/)
