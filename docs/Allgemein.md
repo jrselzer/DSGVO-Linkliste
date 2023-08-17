@@ -145,7 +145,7 @@ Allgemein
 ### Data Privacy Framework (DPF)
 * [DATA PRIVACY FRAMEWORK (DPF) PROGRAM](https://www.dataprivacyframework.gov/s/)
   * [Suche nach selbstzertifizierten US-Unternehmen](https://www.dataprivacyframework.gov/s/participant-search)
-* Anwalt-Spiegel: [Der neue Angemessenheitsbeschluss zum EU-US Data Privacy Framework](https://www.deutscheranwaltspiegel.de/wp-content/uploads/sites/49/2023/08/DAS-Online_Ausgabe-17-2023_L.pdf) (PDF)
+* Anwalt-Spiegel: [Der neue Angemessenheitsbeschluss zum EU-US Data Privacy Framework](https://www.deutscheranwaltspiegel.de/wp-content/uploads/sites/49/2023/08/DAS-Online_Ausgabe-17-2023_L.pdf) Neustart für den transatlantischen Datenaustausch oder Rohrkrepierer? (PDF)
 
 ### Corona
 * Wirtschaft fordert [Lockerungen](https://www.heise.de/newsticker/meldung/Wirtschaft-fordert-Lockerungen-bei-Datenschutzverordnung-wegen-Coronakrise-4713366.html) bei Datenschutzverordnung wegen Coronakrise
