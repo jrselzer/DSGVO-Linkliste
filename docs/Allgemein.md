@@ -94,8 +94,10 @@ Allgemein
 * [Irland](https://taz.de/Zwei-Jahre-DSGVO/!5691347/) soll Daten besser schützen
 * Zwei Jahre DSGVO: Datenschützer von [Big Tech](https://www.heise.de/news/Zwei-Jahre-DSGVO-Datenschuetzer-von-Big-Tech-ueberfordert-4842878.html) überfordert
 * “We will take action when it’s needed” [is not enough](https://www.neweurope.eu/article/we-will-take-action-when-its-needed-is-not-enough/)
+
 ### TTDSG
 * TTDSG: Was das Gesetz für Webanalyse und Onlinewerbung [bedeutet](https://upload-magazin.de/53138-ttdsg-was-das-gesetz-fuer-webanalyse-und-onlinewerbung-bedeutet/) | UPLOAD Magazin
+
 ### Privacy Shield
 * [EuGH](https://www.heise.de/news/EuGH-kippt-EU-US-Datenschutzvereinbarung-Privacy-Shield-4845204.html) kippt EU-US-Datenschutzvereinbarung „Privacy Shield“
 * [Europäischer Gerichtshof](https://www.spiegel.de/netzwelt/netzpolitik/europaeischer-gerichtshof-kippt-umstrittene-datenschutzvereinbarung-privacy-shield-a-6344510a-cbe2-482d-b354-6561af8c4ac7) kippt umstrittenen „Privacy Shield“
@@ -137,6 +139,12 @@ Allgemein
 * [Task Force](https://www.golem.de/news/datenschutz-task-force-will-nutzung-von-us-clouddiensten-pruefen-2102-154206.html) will Nutzung von US-Clouddiensten prüfen
 * Berliner Datenschützer fordern Abschaltung von Facebook-[Fanseiten](https://www.heise.de/news/Berliner-Datenschuetzer-fordern-Abschaltung-von-Facebook-Fanseiten-6667046.html)
 * [Drittland: Ist ein bloßes Zugriffsrisiko schon eine Übermittlung?](https://www.dr-datenschutz.de/drittland-ist-ein-blosses-zugriffsrisiko-schon-eine-uebermittlung/)
+
+###
+* [DATA PRIVACY FRAMEWORK (DPF) PROGRAM](https://www.dataprivacyframework.gov/s/)
+  * [Suche nach selbstzertifizierten US-Unternehmen](https://www.dataprivacyframework.gov/s/participant-search)
+* Anwalt-Spiegel: [Der neue Angemessenheitsbeschluss zum EU-US Data Privacy Framework](https://www.deutscheranwaltspiegel.de/wp-content/uploads/sites/49/2023/08/DAS-Online_Ausgabe-17-2023_L.pdf) (PDF)
+
 ### Corona
 * Wirtschaft fordert [Lockerungen](https://www.heise.de/newsticker/meldung/Wirtschaft-fordert-Lockerungen-bei-Datenschutzverordnung-wegen-Coronakrise-4713366.html) bei Datenschutzverordnung wegen Coronakrise
 * [Coronaschutzverordnung NRW](https://www.land.nrw/sites/default/files/asset/document/2020-07-12_fassung_coronaschvo_ab_15.07.2020_lesefassung.pdf) Stand 15.7.2020
