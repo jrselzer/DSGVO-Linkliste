@@ -123,6 +123,7 @@ Zur Rechtslage
 * DSGVO-Sanktionen: Bundesdatenschützer kündigt [härtere Gangart](https://www.heise.de/newsticker/meldung/DSGVO-Sanktionen-Bundesdatenschuetzer-kuendigt-haertere-Gangart-an-4523220.html) an
 * Bußgelder sind nicht alles! Die [Instrumente](https://www.security-insider.de/die-instrumente-der-datenschutz-aufsicht-nach-dsgvo-a-986745/) der Datenschutz-Aufsicht nach DSGVO
 * Februar 2021 Gesellschaft für Datenschutz und Datensicherheit e.V.: GDD-Information Missbräuchlich motivierte Geltendmachung von [Betroffenenrechten](https://www.gdd.de/downloads/aktuelles/stellungnahmen/21MGInfounredlicheBetroffenenbegehren.pdf)
+
 #### Bußgelder
 * [Bußgelder bei Datenschutzverstößen: Angst vor einem Phantom](https://netzpolitik.org/2018/bussgelder-bei-datenschutzverstoessen-angst-vor-einem-phantom/)
 * [LfDI Baden-Württemberg verhängt sein erstes Bußgeld in Deutschland nach der DS-GVO](https://www.baden-wuerttemberg.datenschutz.de/lfdi-baden-wuerttemberg-verhaengt-sein-erstes-bussgeld-in-deutschland-nach-der-ds-gvo/)
