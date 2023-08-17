@@ -73,6 +73,7 @@ Allgemein
 * Missing Link: Wie die DSGVO wirkt – [schmutzige Tricks und Macht der Stärkeren](https://www.heise.de/hintergrund/Missing-Link-Wie-die-DSGVO-wirkt-schmutzige-Tricks-und-Macht-der-Staerkeren-4925977.html?view=print)
 * Datenschutz ist kein [Wunschkonzert](https://mmm.verdi.de/medienpolitik/datenschutz-ist-kein-wunschkonzert-71019)
 * [Bitkom-Studie](https://dr-dsgvo.de/bitkom-studie-zur-dsgvo-eine-kritische-wuerdigung/) zur DSGVO: Eine kritische Würdigung
+
 #### Ein Jahr DSGVO
 * DSGVO-Hysterie: [Ein Jahr nach dem Weltuntergang](https://www.spiegel.de/netzwelt/netzpolitik/dsgvo-mythen-aus-dem-ersten-jahr-datenschutz-grundverordnung-a-1265926.html)
 * [DSGVO: Nicht so schlimm, wie erwartet](https://www.deutschlandfunknova.de/beitrag/datenschutzgrundverordnung-ein-jahr-dsgvo)
@@ -83,6 +84,7 @@ Allgemein
 * Ein Jahr DSGVO: die [Kritik](https://www.capital.de/allgemein/ein-jahr-dsgvo-die-kritik-bleibt) bleibt
 * One Year of GDPR: how did we get here? The cases that helped create GDPR ([Part 1](https://thestudentlawyer.com/2019/08/05/gdpr/))
 * Datenschutz-Grundverordnung: [Datenschutzbeauftragter sieht Erfolg](https://www.heise.de/newsticker/meldung/Datenschutzbeauftragter-sieht-Erfolg-der-DSGVO-4507183.html) der DSGVO
+
 #### Zwei Jahre DSGVO
 * EU-Datenschutzregeln bleiben in der Wirtschaft [umstritten](https://www.handelsblatt.com/politik/deutschland/zwei-jahre-dsgvo-eu-datenschutzregeln-bleiben-in-der-wirtschaft-umstritten/25791818.html?ticket=ST-322693-RbiqcLJCNbNd0UNaNS2M-ap5)
 * [Umfrage](https://www.heise.de/ix/meldung/Umfrage-Unternehmen-unzufrieden-mit-der-DSGVO-4714205.html): Unternehmen unzufrieden mit der DSGVO
@@ -140,7 +142,7 @@ Allgemein
 * Berliner Datenschützer fordern Abschaltung von Facebook-[Fanseiten](https://www.heise.de/news/Berliner-Datenschuetzer-fordern-Abschaltung-von-Facebook-Fanseiten-6667046.html)
 * [Drittland: Ist ein bloßes Zugriffsrisiko schon eine Übermittlung?](https://www.dr-datenschutz.de/drittland-ist-ein-blosses-zugriffsrisiko-schon-eine-uebermittlung/)
 
-###
+### Data Privacy Framework (DPF)
 * [DATA PRIVACY FRAMEWORK (DPF) PROGRAM](https://www.dataprivacyframework.gov/s/)
   * [Suche nach selbstzertifizierten US-Unternehmen](https://www.dataprivacyframework.gov/s/participant-search)
 * Anwalt-Spiegel: [Der neue Angemessenheitsbeschluss zum EU-US Data Privacy Framework](https://www.deutscheranwaltspiegel.de/wp-content/uploads/sites/49/2023/08/DAS-Online_Ausgabe-17-2023_L.pdf) (PDF)
