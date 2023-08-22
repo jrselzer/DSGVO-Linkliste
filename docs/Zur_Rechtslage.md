@@ -58,6 +58,12 @@ Zur Rechtslage
 * Die größten DSGVO-[Mythen](https://www.isico-datenschutz.de/blog/2018/07/10/die-groessten-dsgvo-mythen-die-einwilligung-was-stimmt-und-was-nicht/): die Einwilligung – Was stimmt und was nicht?
 * Schluss mit den DSGVO-[Mythen](https://www.isico-datenschutz.de/blog/2018/10/30/schluss-mit-dsgvo-mythen/)
 * [European GDPR myths](https://infosec-handbook.eu/blog/gdpr-myths/)
+* [#xfilesgdpr Datenschutz-Mythen aus 5 Jahren DS-GVO](https://media.ccc.de/v/camp2023-57243-xfilesgdpr) Auch nach fünf Jahren DS-GVO halten sich hartnäckig einige Datenschutz-Mythen, die Datenschutz als Digitalisierungsverhinderer brandmarken oder gefährliches Halbwissen in Bezug auf IT-Sicherheit transportieren. Die Vortragenden zeigen in ihrer Rolle als *„Myth-Busters“* anhand von kurzweiligen Beispielen einige Mythen auf und stellen dar, wie man es besser macht. Neben einigen „Mythen-Classics“ soll auch auf aktuelle Fragestellungen eingegangen werden. So zum Beispiel:
+  * Ist der Reifendruck im Connected Car ein personenbezogenes Datum?
+  * Ich habe ein großes Datenleak entdeckt – und nun, was darf ich und was nicht?
+  * Falschparkeranzeige mit Fotobeweis – darf man das?
+  * Smarte Videoüberwachung am Beckenrand – Mit künstlicher Intelligenz gegen das Ertrinken im Freibad?
+  * Sind Hashes von Telefonnummern personenbezogene Daten?
 
 ### Auskunftsrecht
 * [Art. 15 DSGVO: Recht auf Auskunft und Kopie – Hintergrundinformationen und Materialsammlung](https://www.linkedin.com/pulse/art-15-dsgvo-recht-auf-auskunft-und-kopie-tim-wybitul/)
