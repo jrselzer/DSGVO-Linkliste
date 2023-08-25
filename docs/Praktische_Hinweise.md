@@ -38,6 +38,7 @@ Praktische Hinweise
     * [Privacyscore](https://privacyscore.org) – testet Webseiten auf Cookies, Tracking und Verschlüsselung
     * [Webbkoll](https://webbkoll.dataskydd.net/) – testet Webseiten auf Cookies, Tracking und Verschlüsselung
     * Liste von [Bewertungstools](https://www.kuketz-blog.de/empfehlungsecke/#online-bewertungstools)
+* [Open Datenschutzcenter](https://open-datenschutzcenter.de/) Das praxisorientierte DSMS enthält alle wichtigsten Funktionen, die die DSGVO und das BDSG an ein Datenschutzmanagement System stellen. Die Webanwendung steht als Open Source Version kostenlos allen Unternehmen zur Verfügung. Für Unternehmen, die die gesetzlichen Grundlagen erfüllen müssen, bieten wir vorgefertigte Verarbeitungsverzeichnisse und Auditfragen als Import in den Open Datenschutzcenter an.
 
 ### Recht auf Löschung
 * [Der Bayerische Landesbeauftragte für den Datenschutz veröffentlicht Orientierungshilfe zum Recht auf Löschung](https://www.datenschutz-bayern.de/presse/20220620_Recht_auf_Loeschung.html)
