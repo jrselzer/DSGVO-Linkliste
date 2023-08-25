@@ -81,6 +81,7 @@ Zur Rechtslage
 * LG Mosbach: [DSGVO-Auskunft: Auskunftspflicht über Herkunft der Daten](https://www.dr-bahr.com/news/dsgvo-auskunft-auskunftspflicht-ueber-herkunft-der-daten.html?utm_source=dlvr.it&utm_medium=twitter)
 * Keine [Unterschrift](https://www.datenanfragen.de/blog/abis-unterschrift-dsgvo-anfragen/) für DSGVO-Anfragen nötig: Erfolgreiche Beschwerde gegen die ABIS GmbH
 * [DSGVO-Auskunftsrecht – Foltermittel oder Menschenrecht? – Rechtsbelehrung 109](https://rechtsbelehrung.com/109-dsgvo-auskunft/)
+* Kanzlei Dr Bahr: [VG Ansbach: Bei dreimonatiger Untätigkeit der Datenschutzbehörde darf Betroffener erheben](https://www.dr-bahr.com/news/bei-dreimonatiger-untaetigkeit-der-datenschutzbehoerde-darf-betroffener-erheben.html) Bleibt eine Datenschutzbehörde nach Eingang einer Beschwerde auch nach Ablauf von 3 Monaten untätig, kann der Betroffene Untätigkeitsklage vor Gericht erheben. Im Falle einer späteren Verfahrenserledigung muss dann im Zweifel die Behörde des Kosten des Gerichtsprozesses tragen (VG Ansbach, Beschl. v. 03.08.2023 - Az.: AN 14 K 19.01313).
 
 ### Meldepflicht
 * DSGVO: [So funktionieren die neuen Meldepflichten bei Datenpannen](https://www.heise.de/hintergrund/DSGVO-So-funktionieren-die-neuen-Meldepflichten-bei-Datenpannen-4426089.html)
