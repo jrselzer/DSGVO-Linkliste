@@ -122,3 +122,6 @@ Praktische Hinweise
 * [Datenschutz-Folgenabschätzung (DSFA)](https://www.datenschutz-bayern.de/dsfa/) des LfDI-Bayern mit vielen Formularen und einem Tool, das bei der Durchführung hilft.
 * Datenschutz-Folgenabschätzung: [DSFA](https://www.adorgasolutions.de/datenschutz-folgenabschaetzung/)? Was ist das und wozu?
 * [Liste](https://www.datenschutz.bremen.de/sixcms/media.php/13/Liste%20von%20Verarbeitungsvorg%E4ngen%20nach%20Artikel%2035.pdf) von Verarbeitungsvorgängen nach Artikel 35 Absatz 4 Datenschutzgrundverordnung, für die gemäß Artikel 35 Absatz 1 Datenschutzgrundverordnung eine Datenschutz-Folgenabschätzung bei Verantwortlichen im öffentlichen Bereich erforderlich ist. Stand: 25.03.2021
+### Datenschutzerklärungen erstellen
+* [Datenschutzerklärung-Generator  Deutschland – kostenlos & DSGVO-sicher](https://datenschutz-generator.de/) von Dr. jur. Thomas Schwenke.
+* [Datenschutzerklärung Generator - Muster PDF / HTML Vorlage kostenlos nach DSGVO vom Anwalt und Datenschutzbeauftragen (TÜV)](https://www.juraforum.de/datenschutzerklaerung-muster/) Sie können kostenlos die folgende Datenschutzerklärung für Ihre Homepage übernehmen, solange Sie das JuraForum.de am Ende als Quelle nennen.
