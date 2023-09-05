@@ -147,6 +147,8 @@ Allgemein
 * [DATA PRIVACY FRAMEWORK (DPF) PROGRAM](https://www.dataprivacyframework.gov/s/)
   * [Suche nach selbstzertifizierten US-Unternehmen](https://www.dataprivacyframework.gov/s/participant-search)
 * Anwalt-Spiegel: [Der neue Angemessenheitsbeschluss zum EU-US Data Privacy Framework](https://www.deutscheranwaltspiegel.de/wp-content/uploads/sites/49/2023/08/DAS-Online_Ausgabe-17-2023_L.pdf) Neustart für den transatlantischen Datenaustausch oder Rohrkrepierer? (PDF)
+* Datenschutzkonferenz: [Datenschutzkonferenz veröffentlicht Anwendungshinweise zum Angemessenheitsbeschluss zum EU-US Data Privacy Framework](https://www.datenschutzzentrum.de/artikel/1453-.html) Die Konferenz der unabhängigen Datenschutzaufsichtsbehörden des Bundes und der Länder (Datenschutzkonferenz) veröffentlicht Anwendungshinweise zu dem Angemessenheitsbeschluss zum EU-US Data Privacy Framework. Nach einer Einführung zum Datenschutz bei Drittlandsübermittlungen enthält das Dokument einerseits Informationen für die Datenexporteure, also die Verantwortlichen und Auftragsverarbeiter, die Daten in die USA übermitteln. Andererseits erfahren betroffene Personen, welche Rechtsschutz- und Beschwerdemöglichkeiten sie haben.
+  * [Anwendungshinweise der Konferenz der unabhängigen Datenschutzaufsichtsbehörden des Bundes und der Länder vom 4. September 2023](https://www.datenschutzzentrum.de/uploads/dsk/23-09-04_DSK-Anwendungshinweise_EU-US_DPF.pdf) (PDF)
 
 ### Corona
 * Wirtschaft fordert [Lockerungen](https://www.heise.de/newsticker/meldung/Wirtschaft-fordert-Lockerungen-bei-Datenschutzverordnung-wegen-Coronakrise-4713366.html) bei Datenschutzverordnung wegen Coronakrise
