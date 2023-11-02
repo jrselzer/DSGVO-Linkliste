@@ -226,6 +226,9 @@ Auf Anfrage erklärte die LfDI:
 * Kultusministerium Baden-Württemberg: Datenschutzkonforme Bildungsplattform kommt – Vorerst [keine pauschale Untersagung](https://km-bw.de/,Lde/startseite/service/2021-07-22+Vorerst+keine+pauschale+Untersagung+von+Microsoft-Produkten) von Microsoft-Produkten
 * Schulen müssen bis zum Sommer Microsoft 365 [ersetzen](https://www.golem.de/news/datenschutzbeauftragter-schulen-muessen-bis-zum-sommer-microsoft-365-ersetzen-2204-164820.html)
 * [Microsoft 365 in Kirche & Wohlfahrt](https://www.althammer-kill.de/fileadmin/user_upload/Themen/Microsoft_365-KiWo/Microsoft_365_in_Kirche_Wohlfahrt_v2.pdf) Orientierungshilfe Datenschutz und IT-Sicherheit zu Einführung und Einsatz von Microsoft 365 nach DSGVO sowie KDG, KDR-OG und DSG-EKD, Version 2.0, Stand: 19.09.2022
+### Einwilligungen
+* [Was ist ein berechtigtes Interesse im Sinne der DSGVO](https://wideangle.co/blog/de/do-you-have-legitimate-interest)
+
 ### Gesetzestexte
 * Die [DSGVO](https://dsgvo-gesetz.de/) im Volltext
 * Die Neufassung des [BDSG](https://dsgvo-gesetz.de/bdsg/)
