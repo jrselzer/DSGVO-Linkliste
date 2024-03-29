@@ -205,6 +205,7 @@ Zur Rechtslage
 * „[Grindr](https://noyb.eu/en/gay-dating-app-grindr-be-fined-almost-eu-10-mio)“ to be fined almost € 10 Mio over GDPR complaint. The Gay Dating App was illegally sharing sensitive data of millions of users.
 * Datenschutzbeauftragter Baden-Württemberg: 300.000,- EUR DSGVO-Bußgeld gegen [VfB Stuttgart](https://www.dr-bahr.com/news/datenschutzbeauftragter-baden-wuerttemberg-300000-eur-dsgvo-bussgeld-gegen-vfb-stuttgart.html)
 * heise: [DSGVO: Summe der Bußgelder steigt deutlich, gemeldete Datenpannen gehen zurück](https://www.heise.de/news/DSGVO-Summe-der-Bussgelder-steigt-deutlich-gemeldete-Datenpannen-gehen-zurueck-7471587.html) Europäische Datenschützer verhängten 2022 im Vergleich zum Vorjahr rund 50 Prozent mehr Strafen wegen Datenschutzverletzungen, zeigt ein Report von DLA Piper.
+* CMS Blog: [DSGVO-Schadensersatz: Übersicht über aktuelle Urteile und Entwicklungen (laufend aktualisiert)](https://www.cmshs-bloggt.de/tmc/datenschutzrecht/dsgvo-schadensersatz-uebersicht-ueber-aktuelle-urteile-und-entwicklungen-laufend-aktualisiert/) Die Anzahl der Gerichtsentscheidungen zu DSGVO-Schadensersatzansprüchen steigt und steigt. Unser Überblick zeigt die aktuellen Entwicklungen und Urteile. 
 
 #### Abmahnungen
 * [DSGVO-Abmahnungen: Das sind die wichtigsten Urteile](https://www.handwerk.com/dsgvo-abmahnungen-das-sind-die-wichtigsten-urteile)
