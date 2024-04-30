@@ -39,6 +39,11 @@ Praktische Hinweise
     * [Webbkoll](https://webbkoll.dataskydd.net/) – testet Webseiten auf Cookies, Tracking und Verschlüsselung
     * Liste von [Bewertungstools](https://www.kuketz-blog.de/empfehlungsecke/#online-bewertungstools)
 * [Open Datenschutzcenter](https://open-datenschutzcenter.de/) Das praxisorientierte DSMS enthält alle wichtigsten Funktionen, die die DSGVO und das BDSG an ein Datenschutzmanagement System stellen. Die Webanwendung steht als Open Source Version kostenlos allen Unternehmen zur Verfügung. Für Unternehmen, die die gesetzlichen Grundlagen erfüllen müssen, bieten wir vorgefertigte Verarbeitungsverzeichnisse und Auditfragen als Import in den Open Datenschutzcenter an.
+* Datenschutz-Guru: [Datenschutzhinweise für Videoüberwachung (Muster)](https://www.datenschutz-guru.de/datenschutzhinweise-videoueberwachung-muster/) Wenn du eine Videoüberwachung einsetzt, dann benötigst du neben einer Rechtsgrundlage und einem Hinweisschild auch Datenschutzhinweise für die Videoüberwachung, mit denen du die betroffenen Personen über Zweck, Art und Umfang der Datenverarbeitung informierst.
+
+Diese Pflicht ergibt sich aus Art. 13 DSGVO.
+
+Hier findest du ein Muster für Datenschutzhinweise, das du an die tatsächlichen Gegebenheiten anpassen kannst.
 
 ### Recht auf Löschung
 * [Der Bayerische Landesbeauftragte für den Datenschutz veröffentlicht Orientierungshilfe zum Recht auf Löschung](https://www.datenschutz-bayern.de/presse/20220620_Recht_auf_Loeschung.html)
