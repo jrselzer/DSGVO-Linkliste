@@ -120,6 +120,8 @@ Hier findest du ein Muster für Datenschutzhinweise, das du an die tatsächliche
 * [Selbst gehostete Messenger für Unternehmen im Vergleich](https://www.heise.de/hintergrund/Selbst-gehostete-Messenger-fuer-Unternehmen-im-Vergleich-4616157.html)
 * [WhatsApp-Alternativen](https://www.verbraucherzentrale.de/wissen/digitale-welt/datenschutz/whatsappalternativen-messenger-im-ueberblick-13055): Messenger im Überblick
 * [Alternative Messenger-Dienste](https://taz.de/Alternative-Messenger-Dienste/!5743214/): Tschüss, Whatsapp
+* Der Hamburgische Beauftragte für Datenschutz und Informationsfreiheit [Messenger-Dienste in der Kinder- und Jugendarbeit](https://datenschutz-hamburg.de/fileadmin/user_upload/HmbBfDI/Datenschutz/Informationen/240724_HmbBfDI_Messenger_Dienste_Kinder_und_Jugendlicharbeit.pdf) Messenger-Dienste können eine Chance sein, in der Kinder-, Jugend- und Familienhilfe die jeweiligen Zielgruppen zu erreichen und jungen Menschen die Teilhabe zu vielfältigen, kostenlosen und nichtkommerziellen Kinder- und Jugendangeboten zu ermöglichen. Der Auftrag, sowohl zur Teilhabe zu befähigen als auch vor Risiken zu schützen, leitet sich aus der UN-Kinderrechtskonvention und aus dem Sozialgesetzbuch VIII ab.
+
 ### Datenschutzfolgenabschätzung
 * [Datenschutzfolgeabschätzung nach DS-GVO – Teil I: Ablauf](https://kremer-rechtsanwaelte.de/2018/08/06/ldi-veroeffentlicht-listen-fuer-dsfa-nach-art-35-ds-gvo/)
 * [Datenschutzfolgeabschätzung nach DS-GVO – Teil II: Mussliste und Fazit (LDI NRW)](https://kremer-rechtsanwaelte.de/2018/08/13/einfuehrung-datenschutzfolgeabschaetzung-nach-ds-gvo-teil-ii-mussliste-und-fazit-ldi-nrw/)
