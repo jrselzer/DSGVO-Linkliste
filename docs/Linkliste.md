@@ -246,6 +246,9 @@ Auftragsverarbeitung](https://datenschutzkonferenz-online.de/media/dskb/2022_24_
 * Computerbase: [Datenschutz: Kein Office 365 an deutschen Schulen einsetzbar](https://www.computerbase.de/2019-07/datenschutz-kein-office-365-schulen/) Der Einsatz von Microsoft Office 365 an Schulen ist datenschutzrechtlich unzulässig, soweit Schulen personenbezogene Daten in der europäischen Cloud speichern. Zu diesem Schluss kommt der Hessische Beauftragte für Datenschutz und Informationsfreiheit in einer nun veröffentlichten Stellungnahme.
 * Heise: [Schadenersatz droht: Datenschützer mahnt Aus für Microsoft 365 an Schulen an](https://www.heise.de/news/Schadenersatz-droht-Datenschuetzer-mahnt-Aus-fuer-Microsoft-365-an-Schulen-an-7493247.html) Baden-Württembergs Datenschutzbeauftragter untermauert seinen Appell an Schulen, Microsofts Cloud-Office zu verbannen, mit Verweis auf Schadenersatzforderungen.
 * Auslegungssache Folge 118: [Datenschutz-Minenfeld Microsoft 365?](https://www.heise.de/hintergrund/Auslegungssache-118-Datenschutz-Minenfeld-Microsoft-365-9914059.html)
+* LfDI Niedersachsen 3.5.2024: [Microsoft Teams in der Landesverwaltung Niedersachsen}(https://www.lfd.niedersachsen.de/startseite/themen/auftragsverarbeitung_nach_art_28_ds_gvo/microsoft-teams-in-der-landesverwaltung-niedersachsen-231856.html) Der LfD Niedersachsen hält das Verhandlungsergebnis mit Blick auf die Ausgestaltung der Auftragsverarbeitungsvereinbarung für akzeptabel.
+  * [Handreichung zur Auftragsverarbeitungsvereinbarung für Microsoft 365/Teams](Handreichung zur Auftragsverarbeitungsvereinbarung für Microsoft 365/Teams)
+* Dr Datenschutz 23.1.2024: [Datenschutz & Microsoft 365: DSGVO-konformer Einsatz möglich?](https://www.dr-datenschutz.de/datenschutz-microsoft-365-dsgvo-konformer-einsatz-moeglich/)
 
 ### Gesetzestexte
 
