@@ -357,6 +357,43 @@ Das Dokument beschreibt im Weiteren die nötigen Anonymisierungen, die im Kern a
 * Datenschutz: Cisco [Webex](https://heise.de/-6713788) telefonierte selbst stummgeschaltet nach Hause
 
 #### Microsoft 365
+* [Windows 10 und Office 365: Microsoft verspricht Verbesserungen beim Datenschutz](https://www.heise.de/newsticker/meldung/Windows-10-und-Office-365-Microsoft-verspricht-Verbesserungen-beim-Datenschutz-4415238.html)
+* Datenschützer: Einsatz von [Microsoft Office 365 an Schulen](https://www.heise.de/newsticker/meldung/Datenschuetzer-Einsatz-von-Microsoft-Office-365-an-Schulen-ist-unzulaessig-4466156.html) ist unzulässig
+* Weiter [Datenschutzprobleme](https://www.golem.de/news/microsoft-telemetrie-weiter-datenschutzprobleme-mit-office-und-windows-1907-142861.html) mit Office und Windows
+* [Stellungnahme](https://datenschutz.hessen.de/pressemitteilungen/stellungnahme-des-hessischen-beauftragten-f%C3%BCr-datenschutz-und) des Hessischen Beauftragten für Datenschutz und Informationsfreiheit zum Einsatz von Microsoft Office 365 in hessischen Schulen
+* [Zweite Stellungnahme](https://datenschutz.hessen.de/pressemitteilungen/zweite-stellungnahme-zum-einsatz-von-microsoft-office-365-hessischen-schulen) zum Einsatz von Microsoft Office 365 in hessischen Schulen
+* Untersuchung: Microsoft hat weiterhin [Datenschutzprobleme](https://www.heise.de/newsticker/meldung/Untersuchung-Microsoft-hat-weiterhin-Datenschutzprobleme-4484070.html)
+* [German state bans Office 365 in schools](https://www.theverge.com/2019/7/15/20694797/hesse-german-state-gdpr-office-365-schools-illegal-data-protection), citing privacy concerns
+* EU-Datenschützer: [Kontrolle zurückgewinnen von Microsoft & Co.](https://www.heise.de/newsticker/meldung/EU-Datenschuetzer-Kontrolle-zurueckgewinnen-von-Microsoft-Co-4565252.html)
+* [EU’s Microsoft probe throws up ’serious concerns‘ over GDPR compliance](https://www.theinquirer.net/inquirer/news/3082859/eu-microsoft-gdpr-probe-serious-concerns)
+* [Datenschutz & Office 365: DSGVO-konformer Einsatz im Unternehmen?](http://Datenschutz%20&%20Office%20365:%20DSGVO-konformer%20Einsatz%20im%20Unternehmen?)
+* [Office 365 und Datenschutz — passt das zusammen?](https://www.isico-datenschutz.de/blog/2019/11/07/office-365-datenschutz/)
+* [Microsoft Office 365: Datenschutz & DSGVO](https://www.buero-kaizen.de/datenschutz-und-dsgvo-bei-microsoft-office-365/)
+* Pressemeldung: [Vitako](https://www.vitako.de/Publikationen/PM_Handreichung%20EU-Studie%20zu%20MS-Software_final.pdf)-Handreichung zu den Ergebnissen der Untersuchung  
+    des Europäischen Datenschutzbeauftragten  
+    * [Download](https://www.vitako.de/Publikationen/Leitfaden_Nutzung%20von%20Office.pdf)
+    * Kommunale IT-Dienstleister: [Bestehende Verträge mit Microsoft prüfen](https://www.heise.de/news/Kommunale-IT-Dienstleister-Bestehende-Vertraege-mit-Microsoft-pruefen-4859470.html)
+* DSGVO und der Einsatz von [MS Office 365](https://www.bay-innovationsstiftung.de/projekte/einzelansicht-projekte/news/dsgvo-und-der-einsatz-von-ms-office-365-und-windows-10/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=a1fb9f8c846083d8bce0b9ea743190ad) und Windows 10
+    * [Download 1](https://www.bay-innovationsstiftung.de/index.php?eID=tx_securedownloads&p=94&u=0&g=0&t=1596191111&hash=0c827b602ebfcadcf57fd3f8e26058ecaf52449c&file=/fileadmin/docs/cloud_computing_microsoft_202007.pdf&ok=c294e)
+    * [Download 2](http://blog.forum-politische-bildung.de/sel-igbce-18/files/2018/05/cloud_computing_microsoft_202007.pdf)
+* Datenschützer sehen Microsoft 365 in [Behörden](https://www.heise.de/news/Datenschuetzer-sehen-Microsoft-365-in-Behoerden-als-nicht-rechtskonform-an-4893604.html) als nicht rechtskonform an
+* Microsoft Office 365: [Die Gründe für das Nein](https://www.heise.de/news/Microsoft-Office-365-Die-Gruende-fuer-das-Nein-der-Datenschuetzer-4919847.html) der Datenschützer
+* Datenschützer [uneinig](https://www.heise.de/news/Datenschuetzer-uneinig-ueber-Microsoft-Office-365-4919086.html) über Microsoft Office 365
+* [Vortrag Prof. Dr. Dirk Heckmann](https://www.bay-innovationsstiftung.de/vortrag-prof-dr-dirk-heckmann-zum-akdb-kommunalforum-2020/) zum AKDB Kommunalforum 2020 – DSGVO-konforme Nutzung von MS (Office) 365 für Kommunen: Rechtslage und Praxistipps
+* Neues Extra »[Produktivitätswert](https://www.spiegel.de/netzwelt/microsoft-office-scharfe-kritik-an-produktivitaets-score-a-d242d5e5-7ab1-4a85-a5a1-1a12166a54f)« Kritiker warnen vor möglicher Mitarbeiter-Überwachung durch Microsoft Office
+* [Anwenderüberwachung](https://www.heise.de/news/Anwenderueberwachung-durch-Microsofts-Office-Software-4968615.html) durch Microsofts Office-Software
+* Foliensatz: „[Eine kritische Einschätzung zur Einführung von Microsoft 365](https://senioradmin.de/EinschaetzungM365.html)„
+* Datenschutzbeauftragter: [Behörden](https://www.heise.de/news/Datenschutzbeauftragter-Behoerden-sollten-unverzueglich-auf-Microsoft-verzichten-5990886.html) sollen unverzüglich auf Microsoft verzichten
+    * Mecklenburg-Vorpommern: Abschied von Microsoft kurzfristig [unmöglich](https://www.heise.de/news/Mecklenburg-Vorpommern-Abschied-von-Microsoft-kurzfristig-unmoeglich-5992123.html)
+* Telemetriedaten bei Windows [abschalten](https://dasou.law/telemetriedaten-bei-windows-abschalten-kann-ich-windows-dsgvo-konform-nutzen/) – Kann ich Windows DSGVO-konform nutzen?
+* [Empfehlung des LfDI Baden-Württemberg hinsichtlich der Nutzung der geprüften Version von Microsoft Office 365 an Schulen](https://www.baden-wuerttemberg.datenschutz.de/lfdi-raet-aufgrund-hoher-datenschutzrechtlicher-risiken-von-der-nutzung-der-geprueften-version-von-microsoft-office-365-an-schulen-ab/) Bildungsplattform BW: LfDI rät aufgrund hoher datenschutzrechtlicher Risiken von der Nutzung der geprüften Version von Microsoft Office 365 an Schulen ab – Alternativen sollten gestärkt werden
+    * [Neubewertung](http://Neubewertung%20des%20LfDI%20bezüglich%20der%20DSFA%20von%20Microsoft%20Office%20365) des LfDI bezüglich der DSFA von Microsoft Office 365
+    * [Bewertungen](https://www.baden-wuerttemberg.datenschutz.de/empfehlung-lfdi-online/) und Empfehlungen des LfDI zu Office 365 an Schulen
+    * Datenschutzkonforme Digitale [Bildungsplattform](https://www.baden-wuerttemberg.datenschutz.de/datenschutzkonforme-digitale-bildungsplattform-kommt/) kommt
+    * Podcast Datenfreiheit – Folge 13: Ergebnis [Praxistest](https://www.baden-wuerttemberg.datenschutz.de/podcast-datenfreiheit-folge-13-ergebnis-praxistest-ms-office-365-an-schulen/) MS Office 365 an Schulen
+* Kultusministerium Baden-Württemberg: Datenschutzkonforme Bildungsplattform kommt – Vorerst [keine pauschale Untersagung](https://km-bw.de/,Lde/startseite/service/2021-07-22+Vorerst+keine+pauschale+Untersagung+von+Microsoft-Produkten) von Microsoft-Produkten
+* Schulen müssen bis zum Sommer Microsoft 365 [ersetzen](https://www.golem.de/news/datenschutzbeauftragter-schulen-muessen-bis-zum-sommer-microsoft-365-ersetzen-2204-164820.html)
+* [Microsoft 365 in Kirche & Wohlfahrt](https://www.althammer-kill.de/fileadmin/user_upload/Themen/Microsoft_365-KiWo/Microsoft_365_in_Kirche_Wohlfahrt_v2.pdf) Orientierungshilfe Datenschutz und IT-Sicherheit zu Einführung und Einsatz von Microsoft 365 nach DSGVO sowie KDG, KDR-OG und DSG-EKD, Version 2.0, Stand: 19.09.2022
 * heise: [Schulsoftware](https://www.heise.de/newsticker/meldung/Schulsoftware-Threema-ja-Zoom-und-Microsoft-Office-365-eher-nicht-4711961.html): Threema ja, Zoom und Microsoft Office 365 eher nicht
 * [Datenschutzkonferenz: Microsoft 365 ist und bleibt datenschutzwidrig](https://www.heise.de/news/Datenschutzkonferenz-Microsoft-365-ist-und-bleibt-datenschutzwidrig-7352065.html) Einzelne Fortschritte Microsofts erkennen die Datenschützer Deutschlands an. Das reicht nicht. 
 * Cashys Blog: [Microsoft 365 bleibt laut Datenschutzkonferenz datenschutzwidrig](https://stadt-bremerhaven.de/microsoft-365-bleibt-laut-datenschutzkonferenz-datenschutzwidrig/) Laut der deutschen Datenschutzkonferenz (DSK) bleibt Microsoft 365 datenschutzwidrig und sei damit beispielsweise nicht für die rechtskonforme Verwendung in Schulen oder Behörden geeignet. Es gebe zwar leichte Fortschritte, allerdings reiche das keineswegs aus, um den rechtlichen Anforderungen an Privatsphäre und Sicherheit gerecht zu werden.
