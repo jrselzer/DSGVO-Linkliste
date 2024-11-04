@@ -409,6 +409,7 @@ Das Dokument beschreibt im Weiteren die nötigen Anonymisierungen, die im Kern a
 * Auslegungssache Folge 118: [Datenschutz-Minenfeld Microsoft 365?](https://www.heise.de/hintergrund/Auslegungssache-118-Datenschutz-Minenfeld-Microsoft-365-9914059.html)
 * LfDI Niedersachsen 3.5.2024: [Microsoft Teams in der Landesverwaltung Niedersachsen}(https://www.lfd.niedersachsen.de/startseite/themen/auftragsverarbeitung_nach_art_28_ds_gvo/microsoft-teams-in-der-landesverwaltung-niedersachsen-231856.html) Der LfD Niedersachsen hält das Verhandlungsergebnis mit Blick auf die Ausgestaltung der Auftragsverarbeitungsvereinbarung für akzeptabel.
   * [Handreichung zur Auftragsverarbeitungsvereinbarung für Microsoft 365/Teams](Handreichung zur Auftragsverarbeitungsvereinbarung für Microsoft 365/Teams)
+* Dr Datenschutz 23.1.2024: [Datenschutz & Microsoft 365: DSGVO-konformer Einsatz möglich?](https://www.dr-datenschutz.de/datenschutz-microsoft-365-dsgvo-konformer-einsatz-moeglich/)
 
 #### Jitsi
 * Jitsi Meet: Datenschutzfreundlich ohne [Google STUN-Server](https://www.kuketz-blog.de/jitsi-meet-datenschutzfreundlich-ohne-google-stun-server/)
