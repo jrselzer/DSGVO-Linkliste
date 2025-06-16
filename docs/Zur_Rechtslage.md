@@ -23,6 +23,7 @@ Zur Rechtslage
 * Sind [Faxe](https://www.datenschutz-praxis.de/verarbeitungstaetigkeiten/sind-faxe-noch-datenschutzkonform/) noch datenschutzkonform?
     * LfDI Hessen: Zur Übermittlung personenbezogener Daten per [Fax](https://datenschutz.hessen.de/datenschutz/it-und-datenschutz/zur-%C3%BCbermittlung-personenbezogener-daten-per-fax)
     * LfDI Bremen: [Telefax](https://www.datenschutz.bremen.de/datenschutztipps/orientierungshilfen-und-handlungshilfen/telefax-ist-nicht-datenschutz-konform-16111) ist nicht Datenschutz konform
+* Artikel 91: [Das neue DSG-EKD tritt am 1. Mai in Kraft – das ist zu tun](https://artikel91.eu/2025/04/28/das-neue-dsg-ekd-tritt-am-1-mai-in-kraft-das-ist-zu-tun/) Alles neu macht der Mai: Am 1. Mai tritt das novellierte DSG-EKD in Kraft. Die Veränderungen, die hier schon auf Grundlage des Referentenentwurfs und des Synodenantrags diskutiert wurden, sind umfangreich, aber mehr Evolution als Revolution.
 
 ### Recht auf Vergessenwerden
 * [Recht auf Vergessen](https://www.cr-online.de/blog/2019/11/28/recht-auf-vergessen-bverfg-staerkt-das-medienprivileg-art-5-gg-wird-zum-eigenstaendigen-erlaubnistatbestand/): BVerfG stärkt das Medienprivileg, Art. 5 GG wird zum eigenständigen Erlaubnistatbestand
